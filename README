@@ -10,7 +10,8 @@ Place it in a the folder that contains the project folder,
 i.e. its relative filepath to the project folder should be `../GoogleNews-vectors-negative300.bin`
 
 ### Loading in python
-Download gensim: https://github.com/RaRe-Technologies/gensim
+Download gensim: https://github.com/RaRe-Technologies/gensim -
+`pip install gemsim` or `sudo -H pip install gensim` if the previous did not work
 
 Example at: https://gist.github.com/bhaettasch/d7f4e22e79df3c8b6c20 or see notes folder
 
