@@ -1,2 +1,21 @@
-cnn for sentence classification 
+# cnn for sentence classification
 by Ari Beller and Nicholas Lum
+
+## Using gooogle news pretrained
+
+### The model itself
+Download it at https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+
+Place it in a the folder that contains the project folder,
+i.e. its relative filepath to the project folder should be `../GoogleNews-vectors-negative300.bin`
+
+### Loading in python
+Download gensim: https://github.com/RaRe-Technologies/gensim
+
+Example at: https://gist.github.com/bhaettasch/d7f4e22e79df3c8b6c20 or see notes folder
+
+Load model: `pretrained = gs.models.KeyedVectors.load_word2vec_format(PRETRAINED_filepath, binary=True)`
+
+It takes roughly a minute to load the entire file (for me).
+
+Get embedding for word: `pretrained['dog']`.

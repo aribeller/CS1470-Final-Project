@@ -1,10 +1,14 @@
 import tensorflow as tf
 import numpy as np
+import gensim as gs
 from pre_process import process_corp
-
 
 TR_filepath = 'TREC_training.txt'
 TE_filepath = 'TREC_test.txt'
+PRETRAINED_filepath = '../GoogleNews-vectors-negative300.bin'
+
+pretrained = gs.models.KeyedVectors.load_word2vec_format(PRETRAINED_filepath, binary=True)
+print(pretrained['dog']);
 
 with open(TR_filepath) as f:
 	pairs_tr = [line.split(':', 1) for line in f.readlines()]
@@ -147,6 +151,3 @@ print correct/te_snum
 
 
 # conv_bias = tf.Variable(tf.truncated_normal(shape=[tr_slen]))
-
-
-
