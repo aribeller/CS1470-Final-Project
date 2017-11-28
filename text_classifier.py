@@ -1,14 +1,23 @@
 import tensorflow as tf
 import numpy as np
-import gensim as gs
-from pre_process import process_corp
+from pre_process import process_corp, process_corp_w2v
+import time
+import gensim
 
+
+
+start = time.time()
+
+w2v_filepath = 'GoogleNews-vectors-negative300.bin.gz'
 TR_filepath = 'TREC_training.txt'
 TE_filepath = 'TREC_test.txt'
-PRETRAINED_filepath = '../GoogleNews-vectors-negative300.bin'
 
-pretrained = gs.models.KeyedVectors.load_word2vec_format(PRETRAINED_filepath, binary=True)
-print(pretrained['dog']);
+w2v = gensim.models.KeyedVectors.load_word2vec_format(w2v_filepath, binary=True)
+
+w2v_np = w2v.syn0
+w2v_np = np.concatenate((w2v.syn0, np.random.normal(0, .1, (1,w2v_np.shape[1]))),axis=0)
+w2v_vocab =  {word:index for index,word in enumerate(w2v.index2word)}
+w2v_vocab['<OUT_OF_VOCAB>'] = max(list(w2v_vocab.values())) + 1
 
 with open(TR_filepath) as f:
 	pairs_tr = [line.split(':', 1) for line in f.readlines()]
@@ -18,15 +27,18 @@ num_trsent = len(pairs_tr)
 with open(TE_filepath) as f:
 	pairs_te = [line.split(':', 1) for line in f.readlines()]
 
-tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0)
-te_c, te_l, vocab, lt,  sent_len = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
+# tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0)
+# te_c, te_l, vocab, lt,  sent_len = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
+
+tr_c, tr_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_tr, {}, 0, w2v_vocab)
+te_c, te_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_te, vocab, sent_len, w2v_vocab)
 
 tr_snum = tr_c.shape[0]
 te_snum = te_c.shape[0]
 
 batch_sz = 50
 vocab_sz = len(vocab)
-embed_sz = 100
+embed_sz = 300
 chnl_num = 1
 num_flts = 100
 num_class = 6
@@ -34,13 +46,16 @@ drop_prob = .5
 num_iter = 1090
 num_batches = tr_snum/batch_sz
 
+rel_vocab = w2v_np[w2v_indicies,np.arange(embed_sz)]
+
 
 sent = tf.placeholder(tf.int32, [batch_sz, sent_len])
 ans = tf.placeholder(tf.int32, [batch_sz])
 # num_features = tf.placeholder(tf.int32)
 p = tf.placeholder(tf.float32)
 
-E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
+# E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
+E = tf.constant(rel_vocab)
 
 flts3 = tf.Variable(tf.truncated_normal(shape=[3, embed_sz, chnl_num, num_flts], stddev=.1))
 flts4 = tf.Variable(tf.truncated_normal(shape=[4, embed_sz, chnl_num, num_flts], stddev=.1))
@@ -128,6 +143,8 @@ for k in range(te_snum/batch_sz):
 print 'Accuracy:'
 print correct/te_snum
 
+print 'Runtime:'
+print time.time() - start
 
 
 
@@ -151,3 +168,6 @@ print correct/te_snum
 
 
 # conv_bias = tf.Variable(tf.truncated_normal(shape=[tr_slen]))
+
+
+
