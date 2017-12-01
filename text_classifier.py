@@ -1,26 +1,26 @@
 import tensorflow as tf
 import numpy as np
-from pre_process import process_corp, process_corp_w2v
+from pre_process import process_corp, w2v_embed
 import time
 import gensim
+
+from vocab_saver import *
 
 
 
 start = time.time()
 
-w2v_filepath = 'GoogleNews-vectors-negative300.bin'
+w2v_filepath = 'GoogleNews-vectors-negative300.bin.gz'
 TR_filepath = 'TREC_training.txt'
 TE_filepath = 'TREC_test.txt'
 
-print("loading w2v pretrained")
-w2v = gensim.models.KeyedVectors.load_word2vec_format(w2v_filepath, binary=True)
-print("w2v pretrained loaded")
+# w2v = gensim.models.KeyedVectors.load_word2vec_format(w2v_filepath, binary=True)
 
-w2v_np = w2v.wv.syn0 # newer way, not directly accessing syn0
-w2v_np = np.concatenate((w2v.syn0, np.random.normal(0, .1, (1,w2v_np.shape[1]))),axis=0)
-w2v_vocab =  {word:index for index,word in enumerate(w2v.index2word)}
-w2v_vocab['<OUT_OF_VOCAB>'] = max(list(w2v_vocab.values())) + 1
-print("checkpoint 2")
+# w2v_np = w2v.syn0
+# w2v_np = np.concatenate((w2v.syn0, np.random.normal(0, .1, (1,w2v_np.shape[1]))),axis=0)
+# w2v_vocab =  {word:index for index,word in enumerate(w2v.index2word)}
+# w2v_vocab['<OUT_OF_VOCAB>'] = max(list(w2v_vocab.values())) + 1
+
 with open(TR_filepath) as f:
 	pairs_tr = [line.split(':', 1) for line in f.readlines()]
 
@@ -29,11 +29,16 @@ num_trsent = len(pairs_tr)
 with open(TE_filepath) as f:
 	pairs_te = [line.split(':', 1) for line in f.readlines()]
 
-# tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0)
-# te_c, te_l, vocab, lt,  sent_len = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
+tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0)
+te_c, te_l, vocab, lt,  sent_len = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
 
-tr_c, tr_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_tr, {}, 0, w2v_vocab)
-te_c, te_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_te, vocab, sent_len, w2v_vocab)
+# tr_c, tr_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_tr, {}, 0, w2v_vocab)
+# te_c, te_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_te, vocab, sent_len, w2v_vocab)
+
+
+
+# embed = w2v_embed(vocab)
+
 
 tr_snum = tr_c.shape[0]
 te_snum = te_c.shape[0]
@@ -45,10 +50,17 @@ chnl_num = 1
 num_flts = 100
 num_class = 6
 drop_prob = .5
-num_iter = 1090
+num_iter = 10900
 num_batches = tr_snum/batch_sz
 
-rel_vocab = w2v_np[w2v_indicies,np.arange(embed_sz)]
+
+
+
+# print embed.shape
+
+# save_vocab('vocab_store.txt', embed)
+
+embed = load_vocab('vocab_store.txt')
 
 
 sent = tf.placeholder(tf.int32, [batch_sz, sent_len])
@@ -57,7 +69,7 @@ ans = tf.placeholder(tf.int32, [batch_sz])
 p = tf.placeholder(tf.float32)
 
 # E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
-E = tf.constant(rel_vocab)
+E = tf.constant(embed)
 
 flts3 = tf.Variable(tf.truncated_normal(shape=[3, embed_sz, chnl_num, num_flts], stddev=.1))
 flts4 = tf.Variable(tf.truncated_normal(shape=[4, embed_sz, chnl_num, num_flts], stddev=.1))
@@ -99,11 +111,15 @@ ses.run(tf.global_variables_initializer())
 
 tr_loss = 0.0
 dev_loss = 0.0
+dev_prev = 100000
+acc = 0
+acc_prev = 0
 for i in range(num_iter):
 	if i%num_batches == 0:
 		print 'Epoch', i/num_batches
 		print 'Training Loss:', tr_loss
 		tr_loss = 0.0
+		dev_loss = 0.0
 		for j in range(te_snum/batch_sz):
 			dev_start = j*batch_sz
 			dev_end = j*batch_sz+batch_sz
@@ -111,9 +127,33 @@ for i in range(num_iter):
 			dev_labels = te_l[dev_start:dev_end]
 			dev_loss += ses.run(loss,feed_dict={sent:dev_batch, ans:dev_labels, p:1.0})
 		print 'Development Loss:', dev_loss
-		dev_loss = 0.0
 		print
+
 		ordering = np.random.permutation(tr_snum)
+
+		correct = 0.0
+		for k in range(te_snum/batch_sz):
+			test_start = k*batch_sz
+			test_end = k*batch_sz+batch_sz
+			test_batch = te_c[np.arange(test_start, test_end),:]
+			test_labels = te_l[test_start:test_end]
+			log = ses.run(logits, feed_dict={sent:test_batch, ans:test_labels, p:1.0})
+
+			pred = np.argmax(log, axis=1)
+			check = np.equal(pred, test_labels)
+			c = np.sum(check)
+
+			correct += c
+
+		prev_acc = acc
+		acc = correct/te_snum
+
+	if dev_prev < dev_loss and i/num_batches > 10:
+		print 'Accuracy:'
+		print prev_acc
+		break
+
+	dev_prev  = dev_loss
 
 	index_loc = i%num_batches
 
@@ -128,22 +168,12 @@ for i in range(num_iter):
 	tr_loss += l
 
 
-correct = 0.0
-for k in range(te_snum/batch_sz):
-	test_start = k*batch_sz
-	test_end = k*batch_sz+batch_sz
-	test_batch = te_c[np.arange(test_start, test_end),:]
-	test_labels = te_l[test_start:test_end]
-	log = ses.run(logits, feed_dict={sent:test_batch, ans:test_labels, p:1.0})
 
-	pred = np.argmax(log, axis=1)
-	check = np.equal(pred, test_labels)
-	c = np.sum(check)
 
-	correct += c
 
-print 'Accuracy:'
-print correct/te_snum
+
+# print 'Accuracy:'
+# print correct/te_snum
 
 print 'Runtime:'
 print time.time() - start
@@ -170,3 +200,6 @@ print time.time() - start
 
 
 # conv_bias = tf.Variable(tf.truncated_normal(shape=[tr_slen]))
+
+
+
