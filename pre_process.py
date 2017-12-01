@@ -76,7 +76,7 @@ def process_corp_w2v(corp, vocabulary, max_sent, w2v):
 					w2v_indicies.append(w2v['<OUT_OF_VOCAB>'])
 
 			index_sentence.append(vocabulary[word])
-		
+
 
 		corpus.append(index_sentence)
 
@@ -95,4 +95,3 @@ def process_corp_w2v(corp, vocabulary, max_sent, w2v):
 	labels = np.array(labels)
 
 	return corpus, labels, vocabulary, w2v_indicies, max_slen
-

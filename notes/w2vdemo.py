@@ -1,7 +1,18 @@
-from gensim.models import Word2Vec
+# from gensim.models import Word2Vec
+import gensim as gs
 
+model_file = 'big.w2v'
+
+print 'load'
 # Load pretrained model (since intermediate data is not included, the model cannot be refined with additional data)
-model = Word2Vec.load_word2vec_format('../../GoogleNews-vectors-negative300.bin', binary=True, norm_only=True)
+model = gs.models.KeyedVectors.load_word2vec_format('../GoogleNews-vectors-negative300.bin', binary=True, limit=500000)
+print 'loaded'
+print 'saving'
+model.save(model_file)
+print 'saved'
+print 'load saved'
+model.load(model_file)
+print 'loaded saved'
 
 dog = model['dog']
 print(dog.shape)

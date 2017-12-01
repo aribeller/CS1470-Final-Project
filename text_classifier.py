@@ -8,17 +8,19 @@ import gensim
 
 start = time.time()
 
-w2v_filepath = 'GoogleNews-vectors-negative300.bin.gz'
+w2v_filepath = 'GoogleNews-vectors-negative300.bin'
 TR_filepath = 'TREC_training.txt'
 TE_filepath = 'TREC_test.txt'
 
+print("loading w2v pretrained")
 w2v = gensim.models.KeyedVectors.load_word2vec_format(w2v_filepath, binary=True)
+print("w2v pretrained loaded")
 
-w2v_np = w2v.syn0
+w2v_np = w2v.wv.syn0 # newer way, not directly accessing syn0
 w2v_np = np.concatenate((w2v.syn0, np.random.normal(0, .1, (1,w2v_np.shape[1]))),axis=0)
 w2v_vocab =  {word:index for index,word in enumerate(w2v.index2word)}
 w2v_vocab['<OUT_OF_VOCAB>'] = max(list(w2v_vocab.values())) + 1
-
+print("checkpoint 2")
 with open(TR_filepath) as f:
 	pairs_tr = [line.split(':', 1) for line in f.readlines()]
 
@@ -168,6 +170,3 @@ print time.time() - start
 
 
 # conv_bias = tf.Variable(tf.truncated_normal(shape=[tr_slen]))
-
-
-
