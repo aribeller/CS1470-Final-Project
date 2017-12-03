@@ -88,7 +88,7 @@ def process_corp(corp, vocabulary, lt, max_key, max_sent):
 
 # 			# Add the numerical representation of the word to the sentence
 # 			index_sentence.append(vocabulary[word])
-		
+
 # 		# Append that sentence
 # 		corpus.append(index_sentence)
 
@@ -124,8 +124,3 @@ def w2v_embed(vocab):
 			embed[index,:] = np.random.normal(0,.1,(300))
 
 	return embed
-
-
-
-
-

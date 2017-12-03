@@ -3,7 +3,7 @@ import numpy as np
 def save_vocab(savefile, vocab):
 
 	with open(savefile, 'w+') as f:
-		for x in vocab:	
+		for x in vocab:
 			for num in x:
 				f.write(str(num) + ' ')
 			f.write('\n')

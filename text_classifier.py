@@ -1,44 +1,26 @@
+import sys
 import tensorflow as tf
 import numpy as np
-from pre_process import process_corp, w2v_embed
 import time
 import gensim
-
+from pre_process2 import process_corp, w2v_embed
 from vocab_saver import *
-
-
-
 start = time.time()
 
 w2v_filepath = 'GoogleNews-vectors-negative300.bin.gz'
-TR_filepath = 'TREC_training.txt'
-TE_filepath = 'TREC_test.txt'
+training_data_filepath = 'TREC_training.txt'
+testing_data_filepath = 'TREC_test.txt'
 
-# w2v = gensim.models.KeyedVectors.load_word2vec_format(w2v_filepath, binary=True)
-
-# w2v_np = w2v.syn0
-# w2v_np = np.concatenate((w2v.syn0, np.random.normal(0, .1, (1,w2v_np.shape[1]))),axis=0)
-# w2v_vocab =  {word:index for index,word in enumerate(w2v.index2word)}
-# w2v_vocab['<OUT_OF_VOCAB>'] = max(list(w2v_vocab.values())) + 1
-
-with open(TR_filepath) as f:
+with open(training_data_filepath) as f:
 	pairs_tr = [line.split(':', 1) for line in f.readlines()]
 
 num_trsent = len(pairs_tr)
 
-with open(TE_filepath) as f:
+with open(testing_data_filepath) as f:
 	pairs_te = [line.split(':', 1) for line in f.readlines()]
 
-tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0)
+tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0, is_training=True)
 te_c, te_l, vocab, lt,  sent_len = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
-
-# tr_c, tr_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_tr, {}, 0, w2v_vocab)
-# te_c, te_l, vocab, w2v_indicies, sent_len = process_corp_w2v(pairs_te, vocab, sent_len, w2v_vocab)
-
-
-
-# embed = w2v_embed(vocab)
-
 
 tr_snum = tr_c.shape[0]
 te_snum = te_c.shape[0]
@@ -53,14 +35,13 @@ drop_prob = .5
 num_iter = 10900
 num_batches = tr_snum/batch_sz
 
-
-
-
-# print embed.shape
-
-# save_vocab('vocab_store.txt', embed)
-
+print("create embed from w2v")
+embed = w2v_embed(vocab)
+print("save embed to file")
+save_vocab('vocab_store.txt', embed)
+print("load embed from file")
 embed = load_vocab('vocab_store.txt')
+print(embed.shape)
 
 
 sent = tf.placeholder(tf.int32, [batch_sz, sent_len])
@@ -69,7 +50,7 @@ ans = tf.placeholder(tf.int32, [batch_sz])
 p = tf.placeholder(tf.float32)
 
 # E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
-E = tf.constant(embed)
+E = tf.constant(embed, dtype=tf.float32)
 
 flts3 = tf.Variable(tf.truncated_normal(shape=[3, embed_sz, chnl_num, num_flts], stddev=.1))
 flts4 = tf.Variable(tf.truncated_normal(shape=[4, embed_sz, chnl_num, num_flts], stddev=.1))
@@ -200,6 +181,3 @@ print time.time() - start
 
 
 # conv_bias = tf.Variable(tf.truncated_normal(shape=[tr_slen]))
-
-
-
