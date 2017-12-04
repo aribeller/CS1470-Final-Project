@@ -98,3 +98,27 @@ def w2v_embed(vocab):
 			embed[index,:] = np.random.normal(0,.1,(300))
 
 	return embed
+
+
+
+def process_sst_1(filepaths, vocabulary, lt, max_key, previous_max_sentence_length, is_training=False):
+	corpus_filepath, phrases_filepath, sentiments_filepath = filepaths
+
+	with open(training_data_filepath) as f:
+		lines = [line.split(':', 1) for line in f.readlines()]
+
+	label_types = lt
+	lindex = 0
+	indexed_labels = []
+
+	vocab = vocabulary
+	vindex = max_key
+	indexed_corpus = []
+	orig_corpus = []
+
+	word_occurrences = {}
+	word_count = 0 # just for stats
+
+	for line in lines:
+		sentiment = phrases[line]
+		label = get_label(sentiment)
