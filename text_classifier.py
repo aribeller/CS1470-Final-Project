@@ -3,13 +3,19 @@ import tensorflow as tf
 import numpy as np
 import time
 import gensim
-from pre_process2 import process_corp, w2v_embed
+from pre_process2 import *
 from vocab_saver import *
 start = time.time()
 
 w2v_filepath = 'GoogleNews-vectors-negative300.bin.gz'
-training_data_filepath = 'TREC_training.txt'
-testing_data_filepath = 'TREC_test.txt'
+
+training_data_filepath = sys.argv[1]
+testing_data_filepath = sys.argv[2]
+embeddings_filepath = sys.argv[3]
+to_train = sys.argv[4] # either TRAIN or USE
+
+print("TRAINING ON: %s" % training_data_filepath)
+print("TESTING ON: %s" % testing_data_filepath)
 
 with open(training_data_filepath) as f:
 	pairs_tr = [line.split(':', 1) for line in f.readlines()]
@@ -35,12 +41,13 @@ drop_prob = .5
 num_iter = 10900
 num_batches = tr_snum/batch_sz
 
-print("create embed from w2v")
-embed = w2v_embed(vocab)
-print("save embed to file")
-save_vocab('vocab_store.txt', embed)
+if to_train == "TRAIN":
+	print("create embed from w2v")
+	embed = w2v_embed(vocab)
+	print("save embed to file")
+	save_vocab(embeddings_filepath, embed)
 print("load embed from file")
-embed = load_vocab('vocab_store.txt')
+embed = load_vocab(embeddings_filepath)
 print(embed.shape)
 
 

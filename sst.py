@@ -7,32 +7,45 @@ def massage_sst_1(corpus_filepath, phrases_filepath, sentiments_filepath, set_ma
     # output:
     #     <label>:<numeric> <sentence>
 
-    # read the corpus
-    with open(corpus_filepath) as f:
-        corpus = [line.split("\t", 1) for line in f.read().splitlines()]
-        # exclude the first line, which is just headings
-        corpus = corpus[1:]
-
+    # read the files
     corpus = file_to_array(corpus_filepath, "\t")
     phrases = file_to_dict(phrases_filepath, "|", skip_first_line=False)
     sentiments = file_to_dict(sentiments_filepath, "|")
-    set_mappings = file_to_dict(set_mappings_filepath, ",")
+    set_mappings = file_to_array(set_mappings_filepath, ",")
     print(len(corpus))
     print(len(phrases))
     print(len(set_mappings))
     print(len(sentiments))
 
+    # get the labels for each sentence and organise them into t/t/d sets
+    train = []
+    test = []
+    dev = []
     sentence_id = 0
     for sentence in corpus:
-        sentence_id += 1
         phrase_id = phrases[sentence]
         sentiment = float(sentiments[phrase_id])
         label = get_label(sentiment)
-        print(sentence_id)
-        # print(sentence)
-        # print(sentiment)
-        # print(label)
-        # raw_input()
+        destination_set = int(set_mappings[sentence_id])
+        dataset_sentence = "%s:%s %s" % (label, sentiment, sentence)
+        if destination_set == 1:
+            train.append(dataset_sentence)
+        if destination_set == 2:
+            test.append(dataset_sentence)
+        if destination_set == 3:
+            dev.append(dataset_sentence)
+        sentence_id += 1
+        # print(sentence_id)
+    print(len(train))
+    print(len(test))
+    print(len(dev))
+    return train, test, dev
+
+def write_datasets(train, dev, test, train_filepath, test_filepath, dev_filepath):
+    # write the datasets to disk
+    file_from_array(train_filepath, train)
+    file_from_array(test_filepath, test)
+    file_from_array(dev_filepath, dev)
 
 def get_label(sentiment):
     if 0 <= sentiment and sentiment <= 0.2:
@@ -56,6 +69,7 @@ def file_to_dict(filepath, delimiter, skip_first_line=True):
             line = line.split(delimiter, 1)
             d[line[0]] = line[1]
     return d
+
 def file_to_array(filepath, delimiter, keep_position=1, skip_first_line=True):
     a = []
     with open(filepath) as f:
@@ -66,12 +80,11 @@ def file_to_array(filepath, delimiter, keep_position=1, skip_first_line=True):
             line = line.split(delimiter, 1)
             a.append(line[keep_position])
     return a
-        # lines = [line.split(delimiter, 1) for line in f.read().splitlines()]
-        # for line in lines:
-        #     key = line[0]
-        #     value = line[1]
-        #     d[key] = value
 
+def file_from_array(filepath, a):
+    with open(filepath, 'w') as f:
+        for line in a:
+            f.write("%s\n" % (line))
 
-
-massage_sst_1("stanfordSentimentTreebank/datasetSentences.txt", "stanfordSentimentTreebank/dictionary.txt", "stanfordSentimentTreebank/sentiment_labels.txt", "stanfordSentimentTreebank/datasetSplit.txt")
+train, test, dev = massage_sst_1("stanfordSentimentTreebank/datasetSentences.txt", "stanfordSentimentTreebank/dictionary.txt", "stanfordSentimentTreebank/sentiment_labels.txt", "stanfordSentimentTreebank/datasetSplit.txt")
+write_datasets(train, test, dev, "sst_1_train.txt", "sst_1_test.txt", "sst_1_dev.txt")
