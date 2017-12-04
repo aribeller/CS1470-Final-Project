@@ -122,12 +122,3 @@ def process_sst_1(filepaths, vocabulary, lt, max_key, previous_max_sentence_leng
 	for line in lines:
 		sentiment = phrases[line]
 		label = get_label(sentiment)
-
-def get_dataset_filepaths(dataset_to_use):
-	training_data_filepath = ""
-	testing_data_filepath = ""
-
-	TREC_training_data_filepath = 'TREC_training.txt'
-	TREC_testing_data_filepath = 'TREC_test.txt'
-	SST_1_training_data_filepath = 'sst_1_train.txt'
-	SST_1_testing_data_filepath = 'sst_1_dev.txt'

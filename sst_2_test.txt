@@ -1,0 +1,1101 @@
+POSITIVE:0.625 Highbrow self-appointed guardians of culture need not apply , but those who loved Cool as Ice have at last found a worthy follow-up .
+POSITIVE:0.66667 One of creepiest , scariest movies to come along in a long , long time , easily rivaling Blair Witch or The Others .
+POSITIVE:0.83333 Maud and Roland 's search for an unknowable past makes for a haunting literary detective story , but LaBute pulls off a neater trick in Possession : He makes language sexy .
+POSITIVE:0.83333 Pacino is brilliant as the sleep-deprived Dormer , his increasing weariness as much existential as it is physical .
+POSITIVE:0.75 Rare Birds has more than enough charm to make it memorable .
+POSITIVE:0.93056 Manages to be sweet and wickedly satisfying at the same time .
+NEGATIVE:0.38889 This Nickleby thing might have more homosexual undertones than an Eddie Murphy film .
+POSITIVE:0.90278 No sophomore slump for director Sam Mendes , who segues from Oscar winner to Oscar-winning potential with a smooth sleight of hand .
+POSITIVE:0.90278 The movie is n't just hilarious : It 's witty and inventive , too , and in hindsight , it is n't even all that dumb .
+POSITIVE:0.88889 Old-form moviemaking at its best .
+POSITIVE:0.75 Ahhhh ... revenge is sweet !
+POSITIVE:0.81944 Yakusho and Shimizu ... create engaging characterizations in Imamura 's lively and enjoyable cultural mix .
+POSITIVE:0.61111 You will emerge with a clearer view of how the gears of justice grind on and the death report comes to share airtime alongside the farm report .
+POSITIVE:0.69444 Collateral Damage finally delivers the goods for Schwarzenegger fans .
+POSITIVE:0.75 There has always been something likable about the Marquis de Sade .
+POSITIVE:0.76389 As a first-time director , Paxton has tapped something in himself as an actor that provides Frailty with its dark soul .
+POSITIVE:0.84722 For the most part , director Anne-Sophie Birot 's first feature is a sensitive , extraordinarily well-acted drama .
+NEGATIVE:0.36111 This riveting World War II moral suspense story deals with the shadow side of American culture : racial prejudice in its ugly and diverse forms .
+POSITIVE:0.79167 A tender , heartfelt family drama .
+POSITIVE:0.73611 A difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear .
+POSITIVE:0.93056 For the most part , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick solutions .
+POSITIVE:0.77778 It has the charm of the original American road movies , feasting on the gorgeous , ramshackle landscape of the filmmaker 's motherland .
+POSITIVE:0.75 -LRB- Chaiken 's -RRB- talent lies in an evocative , accurate observation of a distinctive milieu and in the lively , convincing dialogue she creates for her characters .
+NEGATIVE:0.27778 In all , this is a watchable movie that 's not quite the memorable experience it might have been .
+POSITIVE:0.72222 My thoughts were focused on the characters .
+POSITIVE:0.68056 That is a compliment to Kuras and Miller .
+POSITIVE:0.90278 One of the more intelligent children 's movies to hit theaters this year .
+POSITIVE:0.69444 A cartoon that 's truly cinematic in scope , and a story that 's compelling and heartfelt -- even if the heart belongs to a big , four-legged herbivore .
+POSITIVE:0.69444 Travels a fascinating arc from hope and euphoria to reality and disillusionment .
+POSITIVE:0.76389 There 's something auspicious , and daring , too , about the artistic instinct that pushes a majority-oriented director like Steven Spielberg to follow A.I. with this challenging report so liable to unnerve the majority .
+POSITIVE:0.625 For anyone unfamiliar with pentacostal practices in general and theatrical phenomenon of Hell Houses in particular , it 's an eye-opener .
+POSITIVE:0.75 It seems like I have been waiting my whole life for this movie and now I ca n't wait for the sequel .
+NEGATIVE:0.27778 It 's a bit disappointing that it only manages to be decent instead of dead brilliant .
+POSITIVE:0.70833 An operatic , sprawling picture that 's entertainingly acted , magnificently shot and gripping enough to sustain most of its 170-minute length .
+POSITIVE:0.72222 The far future may be awesome to consider , but from period detail to matters of the heart , this film is most transporting when it stays put in the past .
+POSITIVE:0.83333 It inspires a continuing and deeply satisfying awareness of the best movies as monumental ` picture shows . '
+POSITIVE:0.72222 Good film , but very glum .
+POSITIVE:0.88889 Dazzling in its complexity , disturbing for its extraordinary themes , The Piano Teacher is a film that defies categorisation .
+POSITIVE:0.81944 It haunts , horrifies , startles and fascinates ; it is impossible to look away .
+POSITIVE:0.72222 It has charm to spare , and unlike many romantic comedies , it does not alienate either gender in the audience .
+POSITIVE:0.79167 It is great summer fun to watch Arnold and his buddy Gerald bounce off a quirky cast of characters .
+POSITIVE:0.66667 Bleakly funny , its characters all the more touching for refusing to pity or memorialize themselves .
+POSITIVE:0.81944 This flick is about as cool and crowd-pleasing as a documentary can get .
+POSITIVE:0.77778 The Wild Thornberrys Movie is a jolly surprise .
+POSITIVE:0.83333 Griffiths proves she 's that rare luminary who continually raises the standard of her profession .
+POSITIVE:0.69444 Offers much to enjoy ... and a lot to mull over in terms of love , loyalty and the nature of staying friends .
+POSITIVE:0.84722 An important movie , a reminder of the power of film to move us and to make us examine our values .
+POSITIVE:0.81944 Binoche makes it interesting trying to find out .
+POSITIVE:0.88889 The mesmerizing performances of the leads keep the film grounded and keep the audience riveted .
+POSITIVE:0.66667 Worth watching for Dong Jie 's performance -- and for the way it documents a culture in the throes of rapid change .
+POSITIVE:0.93056 Two hours fly by -- opera 's a pleasure when you do n't have to endure intermissions -- and even a novice to the form comes away exhilarated .
+POSITIVE:0.73611 It 's one heck of a character study -- not of Hearst or Davies but of the unique relationship between them .
+NEGATIVE:0.22222 A subject like this should inspire reaction in its audience ; The Pianist does not .
+POSITIVE:0.84722 Martin and Barbara are complex characters -- sometimes tender , sometimes angry -- and the delicate performances by Sven Wollter and Viveka Seldahl make their hopes and frustrations vivid .
+POSITIVE:0.75 The weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough .
+NEGATIVE:0.36111 An absurdist comedy about alienation , separation and loss .
+POSITIVE:0.79167 This tenth feature is a big deal , indeed -- at least the third-best , and maybe even a notch above the previous runner-up , Nicholas Meyer 's Star Trek VI : The Undiscovered Country .
+POSITIVE:0.63889 ... with `` The Bourne Identity '' we return to the more traditional action genre .
+POSITIVE:0.84722 Holm ... embodies the character with an effortlessly regal charisma .
+POSITIVE:0.90278 It is amusing , and that 's all it needs to be .
+POSITIVE:0.94444 Among the year 's most intriguing explorations of alientation .
+POSITIVE:0.77778 A full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution .
+POSITIVE:0.90278 Seldom has a movie so closely matched the spirit of a man and his work .
+POSITIVE:0.72222 Audrey Tatou has a knack for picking roles that magnify her outrageous charm , and in this literate French comedy , she 's as morning-glory exuberant as she was in Amelie .
+POSITIVE:0.86111 The movie has an infectious exuberance that will engage anyone with a passing interest in the skate\/surf culture , the L.A. beach scene and the imaginative -LRB- and sometimes illegal -RRB- ways kids can make a playground out of the refuse of adults .
+POSITIVE:0.66667 Even if you do n't think -LRB- Kissinger 's -RRB- any more guilty of criminal activity than most contemporary statesmen , he 'd sure make a courtroom trial great fun to watch .
+POSITIVE:0.72222 The story and structure are well-honed .
+POSITIVE:0.625 Fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away .
+POSITIVE:0.63889 It 's made with deftly unsettling genre flair .
+POSITIVE:0.75 It just may inspire a few younger moviegoers to read Stevenson 's book , which is a treasure in and of itself .
+POSITIVE:0.66667 Funny but perilously slight .
+POSITIVE:0.77778 Overall very good for what it 's trying to do .
+POSITIVE:0.75 Ramsay , as in Ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid .
+POSITIVE:0.83333 A lean , deftly shot , well-acted , weirdly retro thriller that recalls a raft of '60s and '70s European-set spy pictures .
+POSITIVE:0.79167 It proves quite compelling as an intense , brooding character study .
+POSITIVE:0.68056 The Son 's Room is a triumph of gentility that earns its moments of pathos .
+POSITIVE:0.70833 Morton uses her face and her body language to bring us Morvern 's soul , even though the character is almost completely deadpan .
+POSITIVE:0.79167 The film may appear naked in its narrative form ... but it goes deeper than that , to fundamental choices that include the complexity of the Catholic doctrine
+POSITIVE:0.72222 A superbly acted and funny\/gritty fable of the humanizing of one woman at the hands of the unseen forces of fate .
+POSITIVE:0.83333 One of the smartest takes on singles culture I 've seen in a long time .
+POSITIVE:0.68056 There is a fabric of complex ideas here , and feelings that profoundly deepen them .
+POSITIVE:0.73611 CQ 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best European directors .
+POSITIVE:0.77778 The emotions are raw and will strike a nerve with anyone who 's ever had family trauma .
+POSITIVE:0.68056 Good old-fashioned slash-and-hack is back !
+POSITIVE:0.625 As unseemly as its title suggests .
+POSITIVE:0.61111 The fly-on-the-wall method used to document rural French school life is a refreshing departure from the now more prevalent technique of the docu-makers being a visible part of their work .
+POSITIVE:0.70833 It 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part .
+POSITIVE:0.75 Allows us to hope that Nolan is poised to embark a major career as a commercial yet inventive filmmaker .
+POSITIVE:0.88889 Anchored by Friel and Williams 's exceptional performances , the film 's power lies in its complexity .
+POSITIVE:0.88889 It 's a charming and often affecting journey .
+POSITIVE:0.88889 No screen fantasy-adventure in recent memory has the showmanship of Clones ' last 45 minutes .
+POSITIVE:0.94444 A poignant and compelling story about relationships , Food of Love takes us on a bumpy but satisfying journey of the heart .
+POSITIVE:0.66667 The Chateau cleverly probes the cross-cultural differences between Gauls and Yanks .
+POSITIVE:0.76389 Not since Tom Cruise in Risky Business has an actor made such a strong impression in his underwear .
+POSITIVE:0.68056 Aside from minor tinkering , this is the same movie you probably loved in 1994 , except that it looks even better .
+POSITIVE:0.86111 Uses high comedy to evoke surprising poignance .
+POSITIVE:0.81944 Vera 's three actors -- Molla , Gil and Bardem -- excel in insightful , empathetic performances .
+POSITIVE:0.79167 A marvel like none you 've seen .
+POSITIVE:0.79167 With tightly organized efficiency , numerous flashbacks and a constant edge of tension , Miller 's film is one of 2002 's involvingly adult surprises .
+POSITIVE:0.83333 Mr. Tsai is a very original artist in his medium , and What Time Is It There ?
+POSITIVE:0.83333 This is a good script , good dialogue , funny even for adults .
+POSITIVE:0.84722 The characters are interesting and often very creatively constructed from figure to backstory .
+POSITIVE:0.70833 The film will play equally well on both the standard and giant screens .
+POSITIVE:0.69444 Moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not .
+POSITIVE:0.68056 True tale of courage -- and complicity -- at Auschwitz is a harrowing drama that tries to tell of the unspeakable .
+POSITIVE:0.75 Gives you the steady pulse of life in a beautiful city viewed through the eyes of a character who , in spite of tragic loss and increasing decrepitude , knows in his bones that he is one of the luckiest men alive .
+POSITIVE:0.75 MacDowell , whose wifty Southern charm has anchored lighter affairs ... brings an absolutely riveting conviction to her role .
+POSITIVE:0.625 It haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it .
+POSITIVE:0.79167 if you are an actor who can relate to the search for inner peace by dramatically depicting the lives of others onstage , then Esther 's story is a compelling quest for truth .
+POSITIVE:0.83333 For movie lovers as well as opera lovers , Tosca is a real treat .
+NEGATIVE:0.34722 Unflinchingly bleak and desperate
+NEGATIVE:0.38889 Moretti 's compelling anatomy of grief and the difficult process of adapting to loss .
+POSITIVE:0.80556 Challenging , intermittently engrossing and unflaggingly creative .
+NEGATIVE:0.18056 But it 's too long and too convoluted and it ends in a muddle .
+POSITIVE:0.61111 The vivid lead performances sustain interest and empathy , but the journey is far more interesting than the final destination .
+POSITIVE:0.73611 A painfully funny ode to bad behavior .
+POSITIVE:0.94444 ` Easily my choice for one of the year 's best films . '
+POSITIVE:0.68056 Charles ' entertaining film chronicles Seinfeld 's return to stand-up comedy after the wrap of his legendary sitcom , alongside wannabe comic Adams ' attempts to get his shot at the big time .
+POSITIVE:0.75 That dogged good will of the parents and ` vain ' Jia 's defoliation of ego , make the film touching despite some doldrums .
+POSITIVE:0.73611 The volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-Hollywood that it seems positively French in its rhythms and resonance .
+POSITIVE:0.91667 A densely constructed , highly referential film , and an audacious return to form that can comfortably sit among Jean-Luc Godard 's finest work .
+POSITIVE:0.91667 A strangely compelling and brilliantly acted psychological drama .
+POSITIVE:0.875 Candid and comfortable ; a film that deftly balances action and reflection as it lets you grasp and feel the passion others have for their work .
+POSITIVE:0.80556 Bennett 's naturalistic performance speaks volumes more truth than any ` reality ' show , and anybody contemplating their own drastic life changes should watch Some Body first .
+POSITIVE:0.83333 The film is powerful , accessible and funny .
+POSITIVE:0.80556 `` Frailty '' starts out like a typical Bible killer story , but it turns out to be significantly different -LRB- and better -RRB- than most films with this theme .
+POSITIVE:0.84722 If you dig on David Mamet 's mind tricks ... rent this movie and enjoy !
+POSITIVE:0.72222 The primitive force of this film seems to bubble up from the vast collective memory of the combatants .
+NEGATIVE:0.18056 It 's like watching a nightmare made flesh .
+POSITIVE:0.86111 A gorgeous , high-spirited musical from India that exquisitely blends music , dance , song , and high drama .
+POSITIVE:0.79167 It 's hard to imagine Alan Arkin being better than he is in this performance .
+POSITIVE:0.83333 For those who pride themselves on sophisticated , discerning taste , this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half .
+POSITIVE:0.68056 Despite the 2-D animation , The Wild Thornberrys Movie makes for a surprisingly cinematic experience .
+POSITIVE:0.65278 ... a fun little timewaster , helped especially by the cool presence of Jean Reno .
+POSITIVE:0.75 Though only 60 minutes long , the film is packed with information and impressions .
+POSITIVE:0.625 Further proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of Dubya 's Axis of Evil .
+POSITIVE:0.70833 There 's really only one good idea in this movie , but the director runs with it and presents it with an unforgettable visual panache .
+POSITIVE:0.83333 A simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past .
+POSITIVE:0.88889 Lovely and poignant .
+POSITIVE:0.75 Puts a human face on a land most Westerners are unfamiliar with .
+POSITIVE:0.76389 Displaying about equal amounts of naivete , passion and talent , Beneath Clouds establishes Sen as a filmmaker of considerable potential .
+POSITIVE:0.75 The vitality of the actors keeps the intensity of the film high , even as the strafings blend together .
+POSITIVE:0.80556 Not since Japanese filmmaker Akira Kurosawa 's Ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
+NEGATIVE:0.16667 If the first Men in Black was money , the second is small change .
+POSITIVE:0.61111 But it still jingles in the pocket .
+POSITIVE:0.65278 It 's fun lite .
+NEGATIVE:0.25 Passable entertainment , but it 's the kind of motion picture that wo n't make much of a splash when it 's released , and will not be remembered long afterwards .
+POSITIVE:0.93056 I just loved every minute of this film .
+POSITIVE:0.88889 This is a winning ensemble comedy that shows Canadians can put gentle laughs and equally gentle sentiments on the button , just as easily as their counterparts anywhere else in the world .
+POSITIVE:0.79167 Just as moving , uplifting and funny as ever .
+POSITIVE:0.83333 My Wife Is an Actress is an utterly charming French comedy that feels so American in sensibility and style it 's virtually its own Hollywood remake .
+POSITIVE:0.76389 It will grip even viewers who are n't interested in rap , as it cuts to the heart of American society in an unnerving way .
+POSITIVE:0.83333 Belongs to Daniel Day-Lewis as much as it belongs to Martin Scorsese ; it 's a memorable performance in a big , brassy , disturbing , unusual and highly successful film .
+POSITIVE:0.94444 An exhilarating futuristic thriller-noir , Minority Report twists the best of technology around a gripping story , delivering a riveting , pulse intensifying escapist adventure of the first order
+POSITIVE:0.81944 A psychological thriller with a genuinely spooky premise and an above-average cast , actor Bill Paxton 's directing debut is a creepy slice of gothic rural Americana .
+POSITIVE:0.75 While locals will get a kick out of spotting Cleveland sites , the rest of the world will enjoy a fast-paced comedy with quirks that might make the award-winning Coen brothers envious .
+NEGATIVE:0.31944 Pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins .
+POSITIVE:0.69444 If you 're hard up for raunchy college humor , this is your ticket right here .
+POSITIVE:1.0 Few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands .
+POSITIVE:0.65278 Corny , schmaltzy and predictable , but still manages to be kind of heartwarming , nonetheless .
+POSITIVE:0.80556 Feature debuter D.J. Caruso directs a crack ensemble cast , bringing screenwriter Tony Gayton 's narcotics noir to life .
+NEGATIVE:0.38889 Every dance becomes about seduction , where backstabbing and betrayals are celebrated , and sex is currency .
+POSITIVE:0.75 Harris commands the screen , using his frailty to suggest the ravages of a life of corruption and ruthlessness .
+POSITIVE:0.81944 Stephen Rea , Aidan Quinn , and Alan Bates play Desmond 's legal eagles , and when joined by Brosnan , the sight of this grandiloquent quartet lolling in pretty Irish settings is a pleasant enough thing , ` tis .
+POSITIVE:0.94444 Director of photography Benoit Delhomme shot the movie in delicious colors , and the costumes and sets are grand .
+POSITIVE:0.72222 The movie 's relatively simple plot and uncomplicated morality play well with the affable cast .
+POSITIVE:0.83333 The film is quiet , threatening and unforgettable .
+POSITIVE:0.76389 This illuminating documentary transcends our preconceived vision of the Holy Land and its inhabitants , revealing the human complexities beneath .
+POSITIVE:0.88889 deliriously funny , fast and loose , accessible to the uninitiated , and full of surprises
+POSITIVE:0.66667 Trademark American triteness and simplicity are tossed out the window with the intelligent French drama that deftly explores the difficult relationship between a father and son .
+POSITIVE:0.75 One from the heart .
+POSITIVE:0.76389 The movie achieves as great an impact by keeping these thoughts hidden as ... -LRB- Quills -RRB- did by showing them .
+POSITIVE:0.79167 An entertaining , colorful , action-filled crime story with an intimate heart .
+POSITIVE:0.68056 While Undisputed is n't exactly a high , it is a gripping , tidy little movie that takes Mr. Hill higher than he 's been in a while .
+POSITIVE:0.88889 The most compelling Wiseman epic of recent years .
+POSITIVE:0.66667 The socio-histo-political treatise is told in earnest strides ... -LRB- and -RRB- personal illusion is deconstructed with poignancy .
+POSITIVE:0.66667 It 's great escapist fun that recreates a place and time that will never happen again .
+POSITIVE:0.73611 Good car chases , great fight scenes , and a distinctive blend of European , American and Asian influences .
+POSITIVE:0.70833 Liotta put on 30 pounds for the role , and has completely transformed himself from his smooth , Goodfellas image .
+POSITIVE:0.79167 A woman 's pic directed with resonance by Ilya Chaiken .
+POSITIVE:0.66667 -LRB- Grant 's -RRB- bumbling magic takes over the film , and it turns out to be another winning star vehicle .
+POSITIVE:0.72222 It 's a beautiful madness .
+POSITIVE:0.81944 There are some wonderfully fresh moments that smooth the moral stiffness with human kindness and hopefulness .
+POSITIVE:0.61111 A grimly competent and stolid and earnest military courtroom drama .
+POSITIVE:0.63889 Escaping the studio , Piccoli is warmly affecting and so is this adroitly minimalist movie .
+POSITIVE:0.77778 Very psychoanalytical -- provocatively so -- and also refreshingly literary .
+POSITIVE:0.79167 A gorgeous , witty , seductive movie .
+POSITIVE:0.77778 The special effects and many scenes of weightlessness look as good or better than in the original , while the Oscar-winning sound and James Horner 's rousing score make good use of the hefty audio system .
+POSITIVE:0.625 On the heels of The Ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness .
+POSITIVE:0.72222 With Rabbit-Proof Fence , Noyce has tailored an epic tale into a lean , economical movie .
+POSITIVE:0.94444 -LRB- A -RRB- n utterly charming and hilarious film that reminded me of the best of the Disney comedies from the 60s .
+POSITIVE:0.91667 Preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .
+POSITIVE:0.77778 Thanks to Haynes ' absolute control of the film 's mood , and buoyed by three terrific performances , Far From Heaven actually pulls off this stylistic juggling act .
+POSITIVE:0.65278 Birthday Girl is an amusing joy ride , with some surprisingly violent moments .
+POSITIVE:0.81944 More romantic , more emotional and ultimately more satisfying than the teary-eyed original .
+POSITIVE:0.83333 Writer-director 's Mehta 's effort has tons of charm and the whimsy is in the mixture , the intoxicating masala , of cultures and film genres .
+POSITIVE:0.80556 The draw -LRB- for `` Big Bad Love '' -RRB- is a solid performance by Arliss Howard .
+POSITIVE:0.72222 It gets onto the screen just about as much of the novella as one could reasonably expect , and is engrossing and moving in its own right .
+POSITIVE:0.90278 The terrific and bewilderingly underrated Campbell Scott gives a star performance that is nothing short of mesmerizing .
+POSITIVE:0.66667 Cool ?
+POSITIVE:0.72222 It wants to tweak them with a taste of tangy new humor .
+POSITIVE:0.86111 Instead , he shows them the respect they are due .
+POSITIVE:0.72222 Drops you into a dizzying , volatile , pressure-cooker of a situation that quickly snowballs out of control , while focusing on the what much more than the why .
+POSITIVE:0.625 Zhang ... has done an amazing job of getting realistic performances from his mainly nonprofessional cast .
+POSITIVE:0.68056 A solid examination of the male midlife crisis .
+POSITIVE:0.875 As the two leads , Lathan and Diggs are charming and have chemistry both as friends and lovers .
+POSITIVE:0.80556 My Big Fat Greek Wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor .
+POSITIVE:0.69444 The sort of film that makes me miss Hitchcock , but also feel optimistic that there 's hope for popular cinema yet .
+POSITIVE:0.79167 First-time writer-director Serry shows a remarkable gift for storytelling with this moving , effective little film .
+POSITIVE:0.81944 It cuts to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you .
+POSITIVE:0.83333 Atom Egoyan has conjured up a multilayered work that tackles any number of fascinating issues
+POSITIVE:0.83333 ` De Niro ... is a veritable source of sincere passion that this Hollywood contrivance orbits around . '
+POSITIVE:0.70833 While its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving .
+POSITIVE:0.63889 Hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people .
+POSITIVE:0.80556 Based on a devilishly witty script by Heather McGowan and Niels Mueller , the film gets great laughs , but never at the expense of its characters
+NEGATIVE:0.34722 It 's somewhat clumsy and too lethargically paced -- but its story about a mysterious creature with psychic abilities offers a solid build-up , a terrific climax , and some nice chills along the way .
+POSITIVE:0.68056 Exciting and direct , with ghost imagery that shows just enough to keep us on our toes .
+POSITIVE:0.79167 Whether writer-director Anne Fontaine 's film is a ghost story , an account of a nervous breakdown , a trip down memory lane , all three or none of the above , it is as seductive as it is haunting .
+POSITIVE:0.72222 What the film lacks in general focus it makes up for in compassion , as Corcuera manages to find the seeds of hope in the form of collective action .
+POSITIVE:0.91667 If you enjoy more thoughtful comedies with interesting conflicted characters ; this one is for you .
+POSITIVE:0.77778 The quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy .
+NEGATIVE:0.33333 This film seems thirsty for reflection , itself taking on adolescent qualities .
+POSITIVE:0.76389 Another one of those estrogen overdose movies like `` Divine Secrets of the Ya Ya Sisterhood , '' except that the writing , acting and character development are a lot better .
+POSITIVE:0.88889 A breezy romantic comedy that has the punch of a good sitcom , while offering exceptionally well-detailed characters .
+POSITIVE:0.81944 A romantic comedy enriched by a sharp eye for manners and mores .
+POSITIVE:0.72222 A delightful coming-of-age story .
+POSITIVE:0.97222 One of those energetic surprises , an original that pleases almost everyone who sees it .
+POSITIVE:0.88889 An exquisitely crafted and acted tale .
+POSITIVE:0.79167 A taut psychological thriller that does n't waste a moment of its two-hour running time .
+POSITIVE:0.65278 Jones ... does offer a brutal form of charisma .
+POSITIVE:0.61111 Despite its title , Punch-Drunk Love is never heavy-handed .
+POSITIVE:0.76389 The jabs it employs are short , carefully placed and dead-center .
+POSITIVE:0.61111 There 's a wickedly subversive bent to the best parts of Birthday Girl .
+POSITIVE:0.88889 Blanchett 's performance confirms her power once again .
+POSITIVE:0.86111 ... a magnificent drama well worth tracking down .
+POSITIVE:0.66667 A good piece of work more often than not .
+POSITIVE:0.88889 The movie understands like few others how the depth and breadth of emotional intimacy give the physical act all of its meaning and most of its pleasure .
+POSITIVE:0.72222 What distinguishes Time of Favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts .
+POSITIVE:0.77778 Smart , provocative and blisteringly funny .
+NEGATIVE:0.375 Nothing is sacred in this gut-buster .
+POSITIVE:0.83333 Filmmakers who can deftly change moods are treasures and even marvels .
+POSITIVE:0.65278 So , too , is this comedy about mild culture clashing in today 's New Delhi .
+POSITIVE:0.83333 If Steven Soderbergh 's ` Solaris ' is a failure it is a glorious failure .
+POSITIVE:0.86111 `` Mostly Martha '' is a bright , light modern day family parable that wears its heart on its sleeve for all to see .
+POSITIVE:0.61111 It 's a scattershot affair , but when it hits its mark it 's brilliant .
+POSITIVE:0.70833 A pleasant enough romance with intellectual underpinnings , the kind of movie that entertains even as it turns maddeningly predictable .
+POSITIVE:0.83333 Featuring a dangerously seductive performance from the great Daniel Auteuil , `` Sade '' covers the same period as Kaufmann 's `` Quills '' with more unsettlingly realistic results .
+POSITIVE:0.86111 A spellbinding African film about the modern condition of rootlessness , a state experienced by millions around the globe .
+POSITIVE:0.72222 It 's a work by an artist so in control of both his medium and his message that he can improvise like a jazzman .
+POSITIVE:0.80556 A moody , multi-dimensional love story and sci-fi mystery , Solaris is a thought-provoking , haunting film that allows the seeds of the imagination to germinate .
+POSITIVE:0.97222 A very well-made , funny and entertaining picture .
+POSITIVE:0.77778 A giggle-inducing comedy with snappy dialogue and winning performances by an unlikely team of Oscar-winners : Susan Sarandon and Goldie Hawn .
+POSITIVE:0.79167 Oscar Wilde 's masterpiece , The Importance of Being Earnest , may be the best play of the 19th century .
+POSITIVE:0.79167 It 's so good that its relentless , polished wit can withstand not only inept school productions , but even Oliver Parker 's movie adaptation .
+POSITIVE:0.79167 The movie does a good job of laying out some of the major issues that we encounter as we journey through life .
+POSITIVE:0.875 Brilliantly explores the conflict between following one 's heart and following the demands of tradition .
+NEGATIVE:0.27778 Part low rent Godfather .
+POSITIVE:0.61111 Light years \/ several warp speeds \/ levels and levels of dilithium crystals better than the pitiful Insurrection .
+POSITIVE:0.77778 The Lion King was a roaring success when it was released eight years ago , but on Imax it seems better , not just bigger .
+POSITIVE:0.88889 A gripping movie , played with performances that are all understated and touching .
+POSITIVE:0.79167 The piece plays as well as it does thanks in large measure to Anspaugh 's three lead actresses .
+POSITIVE:0.70833 The inspirational screenplay by Mike Rich covers a lot of ground , perhaps too much , but ties things together , neatly , by the end .
+POSITIVE:0.80556 Not the kind of film that will appeal to a mainstream American audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit .
+POSITIVE:0.72222 Director Andrew Niccol ... demonstrates a wry understanding of the quirks of fame .
+POSITIVE:0.77778 His healthy sense of satire is light and fun ...
+POSITIVE:0.70833 About a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological .
+POSITIVE:0.77778 This is human comedy at its most amusing , interesting and confirming .
+POSITIVE:0.83333 An artful , intelligent film that stays within the confines of a well-established genre .
+POSITIVE:0.72222 Majidi is an unconventional storyteller , capable of finding beauty in the most depressing places .
+POSITIVE:0.79167 Richard Gere and Diane Lane put in fine performances as does French actor Oliver Martinez .
+POSITIVE:0.61111 The minor figures surrounding -LRB- Bobby -RRB- ... form a gritty urban mosaic .
+POSITIVE:0.81944 This is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other .
+POSITIVE:0.63889 It 's a demented kitsch mess -LRB- although the smeary digital video does match the muddled narrative -RRB- , but it 's savvy about celebrity and has more guts and energy than much of what will open this year .
+POSITIVE:0.69444 There is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine .
+POSITIVE:0.68056 All-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us .
+POSITIVE:0.72222 An interesting story with a pertinent -LRB- cinematically unique -RRB- message , told fairly well and scored to perfection , I found myself struggling to put my finger on that elusive `` missing thing . ''
+POSITIVE:0.68056 A movie with a real anarchic flair .
+POSITIVE:0.66667 A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .
+POSITIVE:0.77778 A crisp psychological drama -LRB- and -RRB- a fascinating little thriller that would have been perfect for an old `` Twilight Zone '' episode .
+POSITIVE:0.65278 It has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .
+POSITIVE:0.75 An uncluttered , resonant gem that relays its universal points without lectures or confrontations . '
+POSITIVE:0.77778 -LRB- The Cockettes -RRB- provides a window into a subculture hell-bent on expressing itself in every way imaginable . '
+POSITIVE:0.66667 A smart , steamy mix of road movie , coming-of-age story and political satire .
+NEGATIVE:0.38889 The modern-day royals have nothing on these guys when it comes to scandals .
+NEGATIVE:0.36111 It 's only in fairy tales that princesses that are married for political reason live happily ever after .
+POSITIVE:1.0 A terrific B movie -- in fact , the best in recent memory .
+POSITIVE:0.70833 `` Birthday Girl '' is an actor 's movie first and foremost .
+POSITIVE:0.875 I walked away from this new version of E.T. just as I hoped I would -- with moist eyes .
+POSITIVE:0.90278 For devotees of French cinema , Safe Conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .
+POSITIVE:0.70833 What 's really so appealing about the characters is their resemblance to everyday children .
+NEGATIVE:0.36111 An absurdist spider web .
+POSITIVE:0.63889 If you 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you , then you 're at the right film .
+POSITIVE:0.66667 Mention `` Solaris '' five years from now and I 'm sure those who saw it will have an opinion to share .
+POSITIVE:0.875 Allen 's funniest and most likeable movie in years .
+POSITIVE:0.80556 It 's a glorious spectacle like those D.W. Griffith made in the early days of silent film .
+POSITIVE:0.81944 This comic gem is as delightful as it is derivative .
+POSITIVE:0.81944 More timely than its director could ever have dreamed , this quietly lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+POSITIVE:0.625 The leaping story line , shaped by director Peter Kosminsky into sharp slivers and cutting impressions , shows all the signs of rich detail condensed into a few evocative images and striking character traits .
+POSITIVE:0.83333 The production has been made with an enormous amount of affection , so we believe these characters love each other .
+POSITIVE:0.72222 Certainly the performances are worthwhile .
+POSITIVE:0.68056 Winds up being both revelatory and narcissistic , achieving some honest insight into relationships that most high-concept films candy-coat with pat storylines , precious circumstances and beautiful stars .
+POSITIVE:0.84722 Watching these eccentrics is both inspiring and pure joy .
+POSITIVE:0.98611 Steven Spielberg brings us another masterpiece
+POSITIVE:0.73611 Finally , the French-produced `` Read My Lips '' is a movie that understands characters must come first .
+POSITIVE:0.80556 Ms. Seigner and Mr. Serrault bring fresh , unforced naturalism to their characters .
+POSITIVE:0.76389 Allen shows he can outgag any of those young whippersnappers making moving pictures today .
+POSITIVE:0.79167 A good film with a solid pedigree both in front of and , more specifically , behind the camera .
+NEGATIVE:0.23611 By no means a slam-dunk and sure to ultimately disappoint the action fans who will be moved to the edge of their seats by the dynamic first act , it still comes off as a touching , transcendent love story .
+POSITIVE:0.875 I encourage young and old alike to go see this unique and entertaining twist on the classic whale 's tale -- you wo n't be sorry !
+POSITIVE:0.69444 A literary detective story is still a detective story and aficionados of the whodunit wo n't be disappointed .
+POSITIVE:0.61111 High Crimes steals so freely from other movies and combines enough disparate types of films that it ca n't help but engage an audience .
+POSITIVE:0.91667 If you 're a fan of the series you 'll love it and probably want to see it twice .
+POSITIVE:0.625 I will be .
+POSITIVE:0.72222 It celebrates the group 's playful spark of nonconformity , glancing vividly back at what Hibiscus grandly called his ` angels of light . '
+POSITIVE:0.80556 The story ... is inspiring , ironic , and revelatory of just how ridiculous and money-oriented the record industry really is .
+POSITIVE:0.75 It is also a testament to the integrity and vision of the band .
+POSITIVE:0.86111 Laced with liberal doses of dark humor , gorgeous exterior photography , and a stable-full of solid performances , No Such Thing is a fascinating little tale .
+POSITIVE:0.61111 Huppert 's show to steal and she makes a meal of it , channeling Kathy Baker 's creepy turn as the repressed mother on Boston Public just as much as 8 Women 's Augustine .
+POSITIVE:0.61111 Nair does n't treat the issues lightly .
+POSITIVE:0.72222 She allows each character to confront their problems openly and honestly .
+POSITIVE:0.88889 One of the best silly horror movies of recent memory , with some real shocks in store for unwary viewers .
+POSITIVE:0.77778 The work of a filmmaker who has secrets buried at the heart of his story and knows how to take time revealing them .
+POSITIVE:0.72222 Strange occurrences build in the mind of the viewer and take on extreme urgency .
+POSITIVE:0.68056 Has a certain ghoulish fascination , and generates a fair amount of B-movie excitement .
+POSITIVE:0.63889 Familiar but utterly delightful .
+POSITIVE:0.76389 A fascinating , dark thriller that keeps you hooked on the delicious pulpiness of its lurid fiction .
+POSITIVE:0.69444 The film aims to be funny , uplifting and moving , sometimes all at once .
+POSITIVE:0.77778 The extent to which it succeeds is impressive .
+POSITIVE:0.91667 The film brilliantly shines on all the characters , as the direction is intelligently accomplished .
+POSITIVE:0.70833 While not for every taste , this often very funny collegiate gross-out comedy goes a long way toward restoring the luster of the National Lampoon film franchise , too long reduced to direct-to-video irrelevancy .
+POSITIVE:0.79167 As broad and cartoonish as the screenplay is , there is an accuracy of observation in the work of the director , Frank Novak , that keeps the film grounded in an undeniable social realism .
+POSITIVE:0.88889 In addition to Hoffman 's powerful acting clinic , this is that rare drama that offers a thoughtful and rewarding glimpse into the sort of heartache everyone has felt , or will feel someday .
+POSITIVE:1.0 Jeffrey Tambor 's performance as the intelligent jazz-playing exterminator is Oscar-worthy .
+POSITIVE:0.66667 From the opening strains of the Average White Band 's `` Pick up the Pieces '' , you can feel the love .
+POSITIVE:0.73611 Stevens ' vibrant creative instincts are the difference between this and countless other flicks about guys and dolls .
+POSITIVE:0.66667 that it 'll probably be the best and most mature comedy of the 2002 summer season speaks more of the season than the picture
+POSITIVE:0.66667 Meyjes ' provocative film might be called an example of the haphazardness of evil .
+POSITIVE:0.76389 The movie is pretty funny now and then without in any way demeaning its subjects .
+POSITIVE:0.61111 imagine a scenario where Bergman approaches Swedish fatalism using Gary Larson 's Far Side humor
+POSITIVE:0.76389 Too damn weird to pass up , and for the blacklight crowd , way cheaper -LRB- and better -RRB- than Pink Floyd tickets .
+POSITIVE:0.91667 It is most remarkable not because of its epic scope , but because of the startling intimacy it achieves despite that breadth .
+NEGATIVE:0.23611 It 's not a great monster movie .
+POSITIVE:0.83333 Others , more attuned to the anarchist maxim that ` the urge to destroy is also a creative urge ' , or more willing to see with their own eyes , will find Morrison 's iconoclastic uses of technology to be liberating .
+POSITIVE:0.70833 Miller tells this very compelling tale with little fuss or noise , expertly plucking tension from quiet .
+POSITIVE:0.69444 Time Out is existential drama without any of the pretension associated with the term .
+POSITIVE:0.70833 It 's a sweet , laugh-a-minute crowd pleaser that lifts your spirits as well as the corners of your mouth .
+POSITIVE:0.75 Writer\/director Alexander Payne -LRB- Election -RRB- and his co-writer Jim Taylor brilliantly employ their quirky and fearless ability to look American angst in the eye and end up laughing .
+POSITIVE:0.80556 It 's tough to watch , but it 's a fantastic movie .
+POSITIVE:0.83333 The best animated feature to hit theaters since Beauty and the Beast 11 years ago .
+POSITIVE:0.69444 What saves this deeply affecting film from being merely a collection of wrenching cases is Corcuera 's attention to detail .
+POSITIVE:0.88889 Pacino is the best he 's been in years and Keener is marvelous .
+POSITIVE:0.75 A solid , spooky entertainment worthy of the price of a ticket .
+POSITIVE:0.69444 By turns fanciful , grisly and engagingly quixotic .
+POSITIVE:0.91667 ... very funny , very enjoyable ...
+POSITIVE:0.63889 Adaptation is intricately constructed and in a strange way nails all of Orlean 's themes without being a true adaptation of her book .
+POSITIVE:0.79167 So purely enjoyable that you might not even notice it 's a fairly straightforward remake of Hollywood comedies such as Father of the Bride .
+POSITIVE:0.79167 Moonlight Mile gives itself the freedom to feel contradictory things .
+POSITIVE:0.80556 It is sentimental but feels free to offend , is analytical and then surrenders to the illogic of its characters , is about grief and yet permits laughter .
+POSITIVE:0.77778 The real triumphs in Igby come from Philippe , who makes Oliver far more interesting than the character 's lines would suggest , and Sarandon , who could n't be better as a cruel but weirdly likable WASP matron .
+POSITIVE:0.65278 If you 're willing to have fun with it , you wo n't feel cheated by the high infidelity of Unfaithful .
+POSITIVE:0.75 Australia : Land Beyond Time is an enjoyable Big Movie primarily because Australia is a weirdly beautiful place .
+POSITIVE:0.73611 Hoffman 's performance is authentic to the core of his being .
+POSITIVE:0.69444 Told just proficiently enough to trounce its overly comfortable trappings .
+POSITIVE:0.81944 An enthralling aesthetic experience , one that 's steeped in mystery and a ravishing , baroque beauty .
+POSITIVE:0.83333 The quirky drama touches the heart and the funnybone thanks to the energetic and always surprising performance by Rachel Griffiths .
+POSITIVE:0.75 What could have been a daytime soap opera is actually a compelling look at a young woman 's tragic odyssey .
+POSITIVE:0.81944 Duvall is strong as always .
+POSITIVE:0.81944 A no-holds-barred cinematic treat .
+POSITIVE:0.61111 You 'd have to be a most hard-hearted person not to be moved by this drama .
+POSITIVE:0.66667 Allen 's underestimated charm delivers more goodies than lumps of coal .
+POSITIVE:0.86111 Measured against practically any like-themed film other than its Oscar-sweeping franchise predecessor The Silence of the Lambs , Red Dragon rates as an exceptional thriller .
+POSITIVE:0.83333 Maelstrom is strange and compelling , engrossing and different , a moral tale with a twisted sense of humor .
+POSITIVE:0.77778 It makes you believe the cast and crew thoroughly enjoyed themselves and believed in their small-budget film .
+NEGATIVE:0.30556 Too often , Son of the Bride becomes an exercise in trying to predict when a preordained `` big moment '' will occur and not `` if . ''
+POSITIVE:0.77778 The picture uses humor and a heartfelt conviction to tell a story about discovering your destination in life , but also acknowledging the places , and the people , from whence you came .
+POSITIVE:0.76389 A terrific insider look at the star-making machinery of tinseltown .
+POSITIVE:0.63889 It 's a diverting enough hour-and-a-half for the family audience .
+NEGATIVE:0.30556 A party-hearty teen flick that scalds like acid .
+POSITIVE:0.90278 As giddy and whimsical and relevant today as it was 270 years ago .
+POSITIVE:0.83333 The film offers an intriguing what-if premise .
+POSITIVE:0.75 The Pianist is the film Roman Polanski may have been born to make .
+POSITIVE:0.69444 This version does justice both to Stevenson and to the sci-fi genre .
+POSITIVE:0.73611 Poignant and delicately complex .
+POSITIVE:0.79167 Enough may pander to our basest desires for payback , but unlike many revenge fantasies , it ultimately delivers .
+POSITIVE:0.73611 Cho 's latest comic set is n't as sharp or as fresh as I 'm the One That I Want ... but it 's still damn funny stuff .
+POSITIVE:0.72222 In The Pianist , Polanski is saying what he has long wanted to say , confronting the roots of his own preoccupations and obsessions , and he allows nothing to get in the way .
+POSITIVE:0.70833 Despite the film 's shortcomings , the stories are quietly moving .
+POSITIVE:0.79167 If you come from a family that eats , meddles , argues , laughs , kibbitzes and fights together , then go see this delightful comedy .
+POSITIVE:0.79167 This bracingly truthful antidote to Hollywood teenage movies that slather Clearasil over the blemishes of youth captures the combustible mixture of a chafing inner loneliness and desperate grandiosity that tend to characterize puberty .
+POSITIVE:0.66667 It 's the filmmakers ' post-camp comprehension of what made old-time B movies good-bad that makes Eight Legged Freaks a perfectly entertaining summer diversion .
+POSITIVE:0.72222 The film 's strength is n't in its details , but in the larger picture it paints - of a culture in conflict with itself , with the thin veneer of nationalism that covers our deepest , media-soaked fears .
+POSITIVE:0.66667 It has its faults , but it is a kind , unapologetic , sweetheart of a movie , and Mandy Moore leaves a positive impression .
+POSITIVE:0.70833 The Saigon of 1952 is an uneasy mix of sensual delights and simmering violence , and The Quiet American brings us right into the center of that world .
+POSITIVE:0.66667 Despite its shortcomings , Girls Ca n't Swim represents an engaging and intimate first feature by a talented director to watch , and it 's a worthy entry in the French coming-of-age genre .
+POSITIVE:0.81944 With Dirty Deeds , David Caesar has stepped into the mainstream of filmmaking with an assurance worthy of international acclaim and with every cinematic tool well under his control -- driven by a natural sense for what works on screen .
+POSITIVE:0.65278 The humor and humanity of Monsoon Wedding are in perfect balance .
+NEGATIVE:0.375 Lookin ' for sin , American-style ?
+POSITIVE:0.81944 A compelling motion picture that illustrates an American tragedy .
+POSITIVE:0.72222 As comedic spotlights go , Notorious C.H.O. hits all the verbal marks it should .
+POSITIVE:0.63889 It 's a day at the beach -- with air conditioning and popcorn .
+NEGATIVE:0.33333 Frida is n't that much different from many a Hollywood romance .
+POSITIVE:0.70833 What sets it apart is the vision that Taymor , the avant garde director of Broadway 's The Lion King and the film Titus , brings .
+POSITIVE:0.84722 Stevens has a flair for dialogue comedy , the film operates nicely off the element of surprise , and the large cast is solid .
+POSITIVE:0.91667 Extremely well acted by the four primary actors , this is a seriously intended movie that is not easily forgotten .
+POSITIVE:0.625 The film exudes the urbane sweetness that Woody Allen seems to have bitterly forsaken .
+POSITIVE:0.625 K-19 : The Widowmaker is derivative , overlong , and bombastic -- yet surprisingly entertaining .
+POSITIVE:0.61111 It 's good , hard-edged stuff , violent and a bit exploitative but also nicely done , morally alert and street-smart .
+POSITIVE:0.73611 Cineasts will revel in those visual in-jokes , as in the film 's verbal pokes at everything from the likes of Miramax chief Harvey Weinstein 's bluff personal style to the stylistic rigors of Denmark 's Dogma movement .
+POSITIVE:0.75 It 's a rare window on an artistic collaboration .
+NEGATIVE:0.30556 ... begins with promise , but runs aground after being snared in its own tangled plot .
+POSITIVE:1.0 Perhaps the best sports movie I 've ever seen .
+POSITIVE:0.86111 Cho 's timing is priceless .
+POSITIVE:0.88889 A sensitive , moving , brilliantly constructed work .
+POSITIVE:0.79167 An edgy thriller that delivers a surprising punch .
+POSITIVE:0.75 A reasonably entertaining sequel to 1994 's surprise family hit that may strain adult credibility .
+POSITIVE:0.79167 -LRB- Reno -RRB- delivers a monologue that manages to incorporate both the horror and the absurdity of the situation in a well-balanced fashion .
+POSITIVE:0.66667 there is truth here
+POSITIVE:0.86111 a confident , richly acted , emotionally devastating piece of work and 2002 's first great film
+POSITIVE:0.69444 A touching , small-scale story of family responsibility and care in the community .
+POSITIVE:0.83333 Arteta directs one of the best ensemble casts of the year
+POSITIVE:0.68056 The casting of von Sydow ... is itself Intacto 's luckiest stroke .
+POSITIVE:0.79167 No , it 's not as single-minded as John Carpenter 's original , but it 's sure a lot smarter and more unnerving than the sequels .
+POSITIVE:0.80556 A gem of a romantic crime comedy that turns out to be clever , amusing and unpredictable .
+POSITIVE:0.86111 Stands as one of the year 's most intriguing movie experiences , letting its imagery speak for it while it forces you to ponder anew what a movie can be .
+POSITIVE:0.83333 ... the first 2\/3 of the film are incredibly captivating and insanely funny , thanks in part to interesting cinematic devices -LRB- cool visual backmasking -RRB- , a solid cast , and some wickedly sick and twisted humor ...
+POSITIVE:0.77778 This movie got me grinning .
+POSITIVE:0.69444 There 's a part of us that can not help be entertained by the sight of someone getting away with something .
+POSITIVE:0.68056 An old-fashioned drama of substance about a teacher 's slide down the slippery slope of dishonesty after an encounter with the rich and the powerful who have nothing but disdain for virtue .
+POSITIVE:0.72222 What 's not to like about a movie with a ` children 's ' song that includes the line ` My stepdad 's not mean , he 's just adjusting ' ?
+POSITIVE:0.69444 The pleasures that it does afford may be enough to keep many moviegoers occupied amidst some of the more serious-minded concerns of other year-end movies .
+POSITIVE:0.65278 Not everyone will welcome or accept The Trials of Henry Kissinger as faithful portraiture , but few can argue that the debate it joins is a necessary and timely one .
+POSITIVE:0.61111 There are no special effects , and no Hollywood endings .
+POSITIVE:0.72222 Like the original , this version is raised a few notches above kiddie fantasy pablum by Allen 's astringent wit .
+NEGATIVE:0.27778 Despite its Hawaiian setting , the science-fiction trimmings and some moments of rowdy slapstick , the basic plot of `` Lilo '' could have been pulled from a tear-stained vintage Shirley Temple script .
+POSITIVE:0.88889 Filled with honest performances and exceptional detail , Baran is a gentle film with dramatic punch , a haunting ode to humanity .
+POSITIVE:0.68056 In its dry and forceful way , it delivers the same message as Jiri Menzel 's Closely Watched Trains and Danis Tanovic 's No Man 's Land .
+POSITIVE:0.84722 ... a triumph of emotionally and narratively complex filmmaking .
+POSITIVE:0.91667 Simply put , `` Far From Heaven '' is a masterpiece .
+POSITIVE:0.69444 An intense and effective film about loneliness and the chilly anonymity of the environments where so many of us spend so much of our time .
+NEGATIVE:0.29167 Although fairly involving as far as it goes , the film does n't end up having much that is fresh to say about growing up Catholic or , really , anything .
+POSITIVE:0.75 A very funny romantic comedy about two skittish New York middle-agers who stumble into a relationship and then struggle furiously with their fears and foibles .
+POSITIVE:0.90278 Top-notch action powers this romantic drama .
+POSITIVE:0.625 Beresford nicely mixes in as much humor as pathos to take us on his sentimental journey of the heart .
+POSITIVE:0.66667 It really is a shame that more wo n't get an opportunity to embrace small , sweet ` Evelyn . '
+POSITIVE:0.84722 I stopped thinking about how good it all was , and started doing nothing but reacting to it - feeling a part of its grand locations , thinking urgently as the protagonists struggled , feeling at the mercy of its inventiveness , gasping at its visual delights .
+POSITIVE:0.66667 Probably the best case for Christianity since Chesterton and Lewis .
+POSITIVE:0.77778 A gently funny , sweetly adventurous film that makes you feel genuinely good , that is to say , entirely unconned by false sentiment or sharp , overmanipulative Hollywood practices .
+POSITIVE:0.66667 Would be an unendurable viewing experience for this ultra-provincial New Yorker if 26-year-old Reese Witherspoon were not on hand to inject her pure fantasy character , Melanie Carmichael , with a massive infusion of old-fashioned Hollywood magic .
+POSITIVE:0.70833 Visually fascinating ... an often intense character study about fathers and sons , loyalty and duty .
+POSITIVE:0.625 A lyrical metaphor for cultural and personal self-discovery and a picaresque view of a little-remembered world .
+POSITIVE:0.63889 Schutte 's dramatic snapshot of the artist three days before his death offers an interesting bit of speculation as to the issues Brecht faced as his life drew to a close .
+POSITIVE:0.88889 A slick , engrossing melodrama .
+POSITIVE:0.66667 S1M0NE 's satire is not subtle , but it is effective .
+POSITIVE:0.66667 It 's a quirky , off-beat project .
+NEGATIVE:0.31944 While some will object to the idea of a Vietnam picture with such a rah-rah , patriotic tone , Soldiers ultimately achieves its main strategic objective : dramatizing the human cost of the conflict that came to define a generation .
+POSITIVE:0.73611 Even if you do n't know the band or the album 's songs by heart , you will enjoy seeing how both evolve , and you will also learn a good deal about the state of the music business in the 21st Century .
+POSITIVE:1.0 The solid filmmaking and convincing characters makes this a high water mark for this genre .
+POSITIVE:0.77778 Films about loss , grief and recovery are pretty valuable these days .
+POSITIVE:0.73611 Seen in that light , Moonlight Mile should strike a nerve in many .
+POSITIVE:0.875 It 's endlessly inventive , consistently intelligent and sickeningly savage .
+POSITIVE:0.91667 It is definitely worth seeing .
+POSITIVE:0.66667 An impeccable study in perversity .
+POSITIVE:0.72222 Far From Heaven is a dazzling conceptual feat , but more than that , it 's a work of enthralling drama .
+POSITIVE:0.72222 Stuffed to the brim with ideas , American instigator Michael Moore 's film is a rambling examination of American gun culture that uses his usual modus operandi of crucifixion through juxtaposition .
+POSITIVE:0.61111 Affectionately reminds us that , in any language , the huge stuff in life can usually be traced back to the little things .
+POSITIVE:0.93056 The large-frame IMAX camera lends itself beautifully to filming the teeming life on the reefs , making this gorgeous film a must for everyone from junior scientists to grown-up fish lovers .
+POSITIVE:0.66667 A story about intelligent high school students that deals with first love sweetly but also seriously .
+POSITIVE:0.83333 It is also beautifully acted .
+POSITIVE:0.98611 It 's a technically superb film , shining with all the usual Spielberg flair , expertly utilizing the talents of his top-notch creative team .
+POSITIVE:0.76389 Wilco fans will have a great time , and the movie should win the band a few new converts , too .
+POSITIVE:0.77778 Tsai has a well-deserved reputation as one of the cinema world 's great visual stylists , and in this film , every shot enhances the excellent performances .
+POSITIVE:0.69444 The fact is that the screen is most alive when it seems most likely that Broomfield 's interviewees , or even himself , will not be for much longer .
+POSITIVE:0.875 Leguizamo and Jones are both excellent and the rest of the cast is uniformly superb .
+POSITIVE:0.79167 I liked this film a lot ...
+POSITIVE:0.73611 ... there is enough originality in ` Life ' to distance it from the pack of paint-by-number romantic comedies that so often end up on cinema screens .
+POSITIVE:0.93056 A solid and refined piece of moviemaking imbued with passion and attitude .
+POSITIVE:0.73611 Nettelbeck has crafted an engaging fantasy of flavours and emotions , one part romance novel , one part recipe book .
+POSITIVE:0.93056 With or without the sex , a wonderful tale of love and destiny , told well by a master storyteller
+POSITIVE:0.63889 On the surface a silly comedy , Scotland , PA would be forgettable if it were n't such a clever adaptation of the bard 's tragic play .
+POSITIVE:0.72222 A weird , arresting little ride .
+POSITIVE:0.88889 A first-class road movie that proves you can run away from home , but your ego and all your problems go with you .
+NEGATIVE:0.29167 You might want to take a reality check before you pay the full ticket price to see `` Simone , '' and consider a DVD rental instead .
+POSITIVE:0.88889 Well cast and well directed - a powerful drama with enough sardonic wit to keep it from being maudlin .
+POSITIVE:0.84722 A backstage must-see for true fans of comedy .
+POSITIVE:0.66667 There 's back-stabbing , inter-racial desire and , most importantly , singing and dancing .
+POSITIVE:0.66667 The film sounds like the stuff of lurid melodrama , but what makes it interesting as a character study is the fact that the story is told from Paul 's perspective .
+POSITIVE:0.91667 Jones ... makes a great impression as the writer-director of this little $ 1.8 million charmer , which may not be cutting-edge indie filmmaking but has a huge heart .
+POSITIVE:0.63889 In the disturbingly involving family dysfunctional drama How I Killed My Father , French director Anne Fontaine delivers an inspired portrait of male-ridden angst and the emotional blockage that accompanies this human condition
+POSITIVE:0.72222 Below may not mark Mr. Twohy 's emergence into the mainstream , but his promise remains undiminished .
+POSITIVE:0.80556 There 's no reason to miss Interview with the Assassin
+POSITIVE:0.80556 Happily stays close to the ground in a spare and simple manner and does n't pummel us with phony imagery or music .
+POSITIVE:0.66667 Its sheer dynamism is infectious .
+POSITIVE:0.63889 For his first attempt at film noir , Spielberg presents a fascinating but flawed look at the near future .
+POSITIVE:0.80556 Perhaps it 's cliche to call the film ` refreshing , ' but it is .
+POSITIVE:0.875 ` Drumline ' shows a level of young , Black manhood that is funny , touching , smart and complicated .
+POSITIVE:0.66667 It does give a taste of the Burning Man ethos , an appealing blend of counter-cultural idealism and hedonistic creativity .
+NEGATIVE:0.38889 The movie is well done , but slow .
+POSITIVE:0.80556 -LRB- A -RRB- wonderfully loopy tale of love , longing , and voting .
+POSITIVE:0.70833 The fascination comes in the power of the Huston performance , which seems so larger than life and yet so fragile , and in the way the Ivan character accepts the news of his illness so quickly but still finds himself unable to react .
+POSITIVE:0.76389 The last scenes of the film are anguished , bitter and truthful .
+POSITIVE:0.83333 Mr. Koshashvili is a director to watch .
+POSITIVE:0.63889 Predictable storyline and by-the-book scripting is all but washed away by sumptuous ocean visuals and the cinematic stylings of director John Stockwell .
+POSITIVE:0.69444 Antwone Fisher certainly does the trick of making us care about its protagonist and celebrate his victories but , with few exceptions , it rarely stoops to cheap manipulation or corny conventions to do it .
+POSITIVE:0.76389 One feels the dimming of a certain ambition , but in its place a sweetness , clarity and emotional openness that recalls the classics of early Italian neorealism .
+POSITIVE:0.72222 It challenges , this nervy oddity , like modern art should .
+POSITIVE:0.63889 Whenever you think you 've figured out Late Marriage , it throws you for a loop .
+POSITIVE:0.83333 The Pianist is Polanski 's best film .
+NEGATIVE:0.38889 This Orange has some juice , but it 's far from fresh-squeezed .
+POSITIVE:0.69444 A sensitive , modest comic tragedy that works as both character study and symbolic examination of the huge economic changes sweeping modern China .
+POSITIVE:0.875 Cusack 's just brilliant in this .
+POSITIVE:0.83333 Knows how to make our imagination wonder .
+POSITIVE:0.66667 Jae-eun Jeong 's Take Care of My Cat brings a beguiling freshness to a coming-of-age story with such a buoyant , expressive flow of images that it emerges as another key contribution to the flowering of the South Korean cinema .
+POSITIVE:0.80556 The overall fabric is hypnotic , and Mr. Mattei fosters moments of spontaneous intimacy .
+POSITIVE:0.625 Evokes a palpable sense of disconnection , made all the more poignant by the incessant use of cell phones .
+POSITIVE:0.69444 Malcolm McDowell is cool .
+POSITIVE:0.73611 Paul Bettany is cool .
+POSITIVE:0.66667 Cool .
+POSITIVE:0.77778 A touching , sophisticated film that almost seems like a documentary in the way it captures an Italian immigrant family on the brink of major changes .
+POSITIVE:0.88889 An inventive , absorbing movie that 's as hard to classify as it is hard to resist .
+POSITIVE:0.72222 It made me want to get made-up and go see this movie with my sisters .
+POSITIVE:0.88889 I thought the relationships were wonderful , the comedy was funny , and the love ` real ' .
+POSITIVE:0.77778 -LRB- Caine -RRB- proves once again he has n't lost his touch , bringing off a superb performance in an admittedly middling film .
+POSITIVE:0.69444 Bogdanovich puts history in perspective and , via Kirsten Dunst 's remarkable performance , he showcases Davies as a young woman of great charm , generosity and diplomacy .
+POSITIVE:0.77778 This breezy caper movie becomes a soulful , incisive meditation on the way we were , and the way we are .
+POSITIVE:0.875 A captivating new film .
+POSITIVE:0.84722 Those who are n't put off by the film 's austerity will find it more than capable of rewarding them .
+POSITIVE:0.75 It 's a clear-eyed portrait of an intensely lived time , filled with nervous energy , moral ambiguity and great uncertainties .
+POSITIVE:0.75 Reveals how important our special talents can be when put in service of of others .
+POSITIVE:0.72222 It also shows how deeply felt emotions can draw people together across the walls that might otherwise separate them .
+POSITIVE:0.83333 With the same sort of good-natured fun found in films like Tremors , Eight Legged Freaks is prime escapist fare .
+POSITIVE:0.66667 A sharp , amusing study of the cult of celebrity .
+POSITIVE:0.61111 The sentimental cliches mar an otherwise excellent film .
+POSITIVE:0.81944 A powerful performance from Mel Gibson and a brutal 90-minute battle sequence that does everything but issue you a dog-tag and an M-16 .
+POSITIVE:0.86111 A graceful , moving tribute to the courage of New York 's finest and a nicely understated expression of the grief shared by the nation at their sacrifice .
+POSITIVE:0.79167 A coming-of-age tale from New Zealand whose boozy , languid air is balanced by a rich visual clarity and deeply felt performances across the board .
+NEGATIVE:0.34722 Made to be Jaglomized is the Cannes Film Festival , the annual Riviera spree of flesh , buzz , blab and money .
+POSITIVE:0.77778 The charming result is Festival in Cannes .
+POSITIVE:0.81944 If you 're looking for something new and hoping for something entertaining , you 're in luck .
+POSITIVE:0.88889 A hugely rewarding experience that 's every bit as enlightening , insightful and entertaining as Grant 's two best films -- Four Weddings and a Funeral and Bridget Jones 's Diary .
+POSITIVE:0.79167 A rip-roaring comedy action fest that 'll put hairs on your chest .
+POSITIVE:0.65278 If there 's no art here , it 's still a good yarn -- which is nothing to sneeze at these days .
+POSITIVE:0.75 Simultaneously heart-breaking and very funny , The Last Kiss is really all about performances .
+POSITIVE:0.72222 There is a subversive element to this Disney cartoon , providing unexpected fizzability .
+POSITIVE:0.77778 An unforgettable look at morality , family , and social expectation through the prism of that omnibus tradition called marriage .
+POSITIVE:0.68056 An enjoyable , if occasionally flawed , experiment .
+NEGATIVE:0.25 Sushi for the connoisseurs of the macabre .
+NEGATIVE:0.125 Do n't waste your money .
+NEGATIVE:0.29167 There 's not enough to sustain the comedy .
+NEGATIVE:0.375 Like those to Rome , all roads in The Banger Sisters inevitably lead to a joke about Hawn 's breasts , which constantly threaten to upstage the woman sporting them .
+NEGATIVE:0.15278 You 're better off staying home and watching The X-Files .
+NEGATIVE:0.26389 Chaotic , self-indulgent and remarkably ugly to look at , it 's ... like a series of pretentiously awful student films strung together into one feature-length horror .
+NEGATIVE:0.26389 This is the type of movie best enjoyed by frat boys and college kids while sucking on the bong and downing one alcoholic beverage after another .
+NEGATIVE:0.31944 Friday After Next has the same problem that Next Friday did -- it 's called Where 's Chris Tucker When You Need Him ?
+NEGATIVE:0.27778 But like most rabbits , it seems to lack substance .
+NEGATIVE:0.31944 I weep for the future when a good portion of the respected critical community in this country consider Blue Crush to be an intelligent film about young women .
+NEGATIVE:0.23611 I kept wishing I was watching a documentary about the wartime Navajos and what they accomplished instead of all this specious Hollywood hoo-ha .
+NEGATIVE:0.30556 No number of fantastic sets , extras , costumes and spectacular locales can disguise the emptiness at the center of the story .
+NEGATIVE:0.19444 A movie far more cynical and lazy than anything a fictitious Charlie Kaufman might object to .
+NEGATIVE:0.13889 Could The Country Bears really be as bad as its trailers ?
+NEGATIVE:0.097222 If High Crimes were any more generic it would have a universal product code instead of a title .
+NEGATIVE:0.20833 Reggio falls victim to relying on the very digital technology that he fervently scorns , creating a meandering , inarticulate and ultimately disappointing film .
+NEGATIVE:0.18056 The movie makes absolutely no sense .
+NEGATIVE:0.069444 Its underlying mythology is a hodgepodge of inconsistencies that pose the question : Since when did dumb entertainment have to be this dumb ?
+NEGATIVE:0.23611 The problem with this film is that it 's forced to make its characters idiots in order to advance the plot .
+NEGATIVE:0.13889 Had anyone here done anything remotely intelligent , we all could have stopped watching long ago .
+NEGATIVE:0.23611 Despite the authenticity of the trappings , the film is overblown in its plotting , hackneyed in its dialogue and anachronistic in its style .
+NEGATIVE:0.25 Murder and mayhem of this sort quickly becomes monotonous .
+POSITIVE:0.63889 That Zhang would make such a strainingly cute film -- with a blind orphan at its center , no less -- indicates where his ambitions have wandered .
+NEGATIVE:0.26389 The streets , shot by cinematographer Michael Ballhaus , may be as authentic as they are mean , but it is nearly impossible to care about what happens on them .
+NEGATIVE:0.20833 Flotsam in the sea of moviemaking , not big enough for us to worry about it causing significant harm and not smelly enough to bother despising .
+NEGATIVE:0.26389 A TV episode inflated past its natural length .
+NEGATIVE:0.30556 Involving at times , but lapses quite casually into the absurd .
+NEGATIVE:0.15278 All these developments and challenges facing Santa weigh down the plot so heavily that they drain all the film of its energy and needlessly strain credibility .
+NEGATIVE:0.27778 There are weird resonances between actor and role here , and they 're not exactly flattering .
+NEGATIVE:0.083333 The unceasing sadism is so graphically excessive , the director just ends up exposing his own obsession .
+NEGATIVE:0.125 The story ... is moldy and obvious .
+NEGATIVE:0.18056 It 's drained of life in an attempt to be sober and educational , and yet it 's so devoid of realism that its lack of whistles and bells just makes it obnoxious and stiff .
+NEGATIVE:0.125 Suffocated at conception by its Munchausen-by-proxy mum .
+NEGATIVE:0.375 Punish the vehicle to adore the star .
+NEGATIVE:0.27778 Even if Britney Spears is really cute , her movie is really bad .
+NEGATIVE:0.23611 Big Fat Liar is just futile silliness looking to tap into the kiddie sensibilities .
+NEGATIVE:0.38889 Usually when I get this much syrup , I like pancakes to go with it .
+NEGATIVE:0.25 All the necessary exposition prevents the picture from rising above your generic sand 'n' sandal adventure .
+NEGATIVE:0.26389 Glib , satirical documentary that fudges facts , makes facile points and engages in the cinematic equivalent of tabloid journalism .
+NEGATIVE:0.19444 Gangs of New York is an unapologetic mess , whose only saving grace is that it ends by blowing just about everything up .
+NEGATIVE:0.055556 An overblown clunker full of bad jokes , howling cliches and by-the-numbers action sequences .
+NEGATIVE:0.125 Without a strong script and energetic acting , Dogma films can produce the same sleep-inducing effects as watching your neighbor 's home videos .
+NEGATIVE:0.27778 Strong setup and ambitious goals fade as the film descends into unsophisticated scare tactics and B-film thuggery .
+NEGATIVE:0.38889 Schindler 's List it ai n't .
+NEGATIVE:0.19444 It 's an awfully derivative story .
+NEGATIVE:0.11111 The movie barely makes sense , with its unbelievable naivete and arbitrary flashbacks .
+NEGATIVE:0.16667 About as cutting-edge as Pet Rock : The Movie .
+NEGATIVE:0.20833 With generic sets and B-grade special effects , Jason is about as convincing on the sci-fi front as TV 's defunct Cleopatra 2525 .
+NEGATIVE:0.30556 Not sweet enough to liven up its predictable story and will leave even fans of hip-hop sorely disappointed .
+NEGATIVE:0.33333 Winds up feeling like lots of other quirky movies that try to score hipness points with young adults .
+NEGATIVE:0.33333 Oft-described as the antidote to American Pie-type sex comedies , it actually has a bundle in common with them , as the film diffuses every opportunity for a breakthrough
+NEGATIVE:0.31944 The premise is overshadowed by the uberviolence of the Clericks as this becomes just another kung-fu sci-fi movie with silly action sequences .
+NEGATIVE:0.25 With its hints of a greater intelligence lurking somewhere , The Ring makes its stupidity more than obvious .
+NEGATIVE:0.097222 It 's painful .
+NEGATIVE:0.23611 An uneven film dealing with too many problems to be taken seriously .
+NEGATIVE:0.16667 An atonal estrogen opera that demonizes feminism while gifting the most sympathetic male of the piece with a nice vomit bath at his wedding .
+NEGATIVE:0.33333 Half of it is composed of snappy patter and pseudo-sophisticated cultural observations , while the remainder ... would be more at home on a daytime television serial .
+NEGATIVE:0.38889 Writer\/director John McKay ignites some charming chemistry between Kate and Jed but , when he veers into sodden melodrama , punctuated by violins , it 's disastrous and Kate 's jealous female friends become downright despicable .
+NEGATIVE:0.23611 -LRB- Newton -RRB- wanders through CHARLIE completely unaware she needs to show some presence and star quality .
+NEGATIVE:0.069444 Unfortunately , the picture failed to capture me .
+NEGATIVE:0.055556 I found it slow , drab , and bordering on melodramatic .
+NEGATIVE:0.0 A lousy movie that 's not merely unwatchable , but also unlistenable .
+NEGATIVE:0.31944 The best way to hope for any chance of enjoying this film is by lowering your expectations .
+NEGATIVE:0.38889 Then lower them a bit more .
+NEGATIVE:0.23611 Cliches are as thick as the cigarette smoke .
+NEGATIVE:0.36111 A woozy , roisterous , exhausting mess , and the off-beat casting of its two leads turns out to be as ill-starred as you might expect .
+NEGATIVE:0.20833 ` Abandon all hope , ye who enter here ' ... you should definitely let Dante 's gloomy words be your guide .
+NEGATIVE:0.20833 A grim , flat and boring werewolf movie that refuses to develop an energy level .
+NEGATIVE:0.27778 Birot 's directorial debut -LRB- she co-wrote the script with Christophe Honore -RRB- is n't so much bad as it is bland .
+NEGATIVE:0.13889 Watching the film is like reading a Times Portrait of Grief that keeps shifting focus to the journalist who wrote it .
+NEGATIVE:0.22222 Enough similarities to Gymkata and Howie Long 's Firestorm that my fingernails instinctively crawled towards my long-suffering eyeballs .
+POSITIVE:0.63889 Succeeds in providing a disquiet world the long-dreaded completion of the Police Academy series .
+POSITIVE:0.79167 Christians sensitive to a reductionist view of their Lord as a luv-spreading Dr. Feelgood or omnipotent slacker will feel vastly more affronted than secularists , who might even praise God for delivering such an instant camp classic .
+NEGATIVE:0.20833 If this dud had been made in the '70s , it would have been called The Hills Have Antlers and played for about three weeks in drive-ins .
+NEGATIVE:0.27778 A frantic search for laughs , with a hit-to-miss ratio that does n't exactly favour the audience .
+NEGATIVE:0.16667 `` An entire film about researchers quietly reading dusty old letters . ''
+NEGATIVE:0.36111 Pryor Lite , with half the demons , half the daring , much less talent , many fewer laughs .
+NEGATIVE:0.19444 What 's at stake in this film is nothing more than an obsolete , if irritating , notion of class .
+NEGATIVE:0.34722 The stories here suffer from the chosen format .
+NEGATIVE:0.38889 While the mystery surrounding the nature of the boat 's malediction remains intriguing enough to sustain mild interest , the picture refuses to offer much accompanying sustenance in the way of characterization , humor or plain old popcorn fun .
+NEGATIVE:0.36111 I regret to report that these ops are just not extreme enough .
+NEGATIVE:0.33333 The actors are forced to grapple with hazy motivations that never come into focus .
+NEGATIVE:0.18056 John Leguizamo may be a dramatic actor -- just not in this movie .
+NEGATIVE:0.16667 The sequel has turned completely and irrevocably bizarre to the point of utter nonsense .
+NEGATIVE:0.13889 Build some robots , haul 'em to the theatre with you for the late show , and put on your own Mystery Science Theatre 3000 tribute to what is almost certainly going to go down as the worst -- and only -- killer website movie of this or any other year .
+NEGATIVE:0.375 Rainy days and movies about the disintegration of families always get me down .
+NEGATIVE:0.16667 ... has about 3\/4th the fun of its spry 2001 predecessor -- but it 's a rushed , slapdash , sequel-for-the-sake - of-a-sequel with less than half the plot and ingenuity .
+NEGATIVE:0.097222 The Master Of Disaster - it 's a piece of dreck disguised as comedy .
+NEGATIVE:0.29167 The film has a few cute ideas and several modest chuckles but it is n't exactly kiddie-friendly ... Alas , Santa is more ho-hum than ho-ho-ho and the Snowman -LRB- who never gets to play that flute -RRB- has all the charm of a meltdown .
+NEGATIVE:0.0 The stupidest , most insulting movie of 2002 's first quarter .
+NEGATIVE:0.26389 It 's so underwritten that you ca n't figure out just where the other characters , including Ana 's father and grandfather , come down on the issue of Ana 's future .
+NEGATIVE:0.19444 A film so tedious that it is impossible to care whether that boast is true or not .
+NEGATIVE:0.22222 None of this violates the letter of Behan 's book , but missing is its spirit , its ribald , full-throated humor .
+NEGATIVE:0.18056 Bad Company leaves a bad taste , not only because of its bad-luck timing , but also the staleness of its script .
+NEGATIVE:0.25 Fails to bring as much to the table .
+NEGATIVE:0.38889 A film made with as little wit , interest , and professionalism as artistically possible for a slummy Hollywood caper flick .
+NEGATIVE:0.19444 Disturbingly superficial in its approach to the material .
+NEGATIVE:0.34722 If you 're not the target demographic ... this movie is one long chick-flick slog .
+NEGATIVE:0.30556 I hate this movie
+NEGATIVE:0.29167 It 's tough to tell which is in more abundant supply in this woefully hackneyed movie , directed by Scott Kalvert , about street gangs and turf wars in 1958 Brooklyn -- stale cliches , gratuitous violence , or empty machismo .
+NEGATIVE:0.30556 Gooding and Coburn are both Oscar winners , a fact which , as you watch them clumsily mugging their way through Snow Dogs , seems inconceivable .
+NEGATIVE:0.25 At every opportunity to do something clever , the film goes right over the edge and kills every sense of believability ... all you have left is a no-surprise series of explosions and violence while Banderas looks like he 's not trying to laugh at how bad it
+NEGATIVE:0.055556 ... pitiful , slapdash disaster .
+NEGATIVE:0.15278 A DOA dud from frame one .
+NEGATIVE:0.23611 Jaw-droppingly superficial , straining to get by on humor that is not even as daring as John Ritter 's glory days on Three 's Company .
+POSITIVE:0.70833 There are plenty of scenes in Frida that do work , but rarely do they involve the title character herself .
+NEGATIVE:0.34722 Although God Is Great addresses interesting matters of identity and heritage , it 's hard to shake the feeling that it was intended to be a different kind of film .
+NEGATIVE:0.30556 First-timer John McKay is never able to pull it back on course .
+NEGATIVE:0.16667 Distances you by throwing out so many red herrings , so many false scares , that the genuine ones barely register .
+NEGATIVE:0.34722 Godard uses his characters -- if that 's not too glorified a term -- as art things , mouthpieces , visual motifs , blanks .
+NEGATIVE:0.25 The movie generates plot points with a degree of randomness usually achieved only by lottery drawing .
+NEGATIVE:0.097222 A predictable , manipulative stinker .
+NEGATIVE:0.30556 The story passes time until it 's time for an absurd finale of twisted metal , fireballs and revenge .
+NEGATIVE:0.125 The movie suffers from two fatal ailments -- a dearth of vitality and a story that 's shapeless and uninflected .
+NEGATIVE:0.23611 It 's just weirdness for the sake of weirdness , and where Human Nature should be ingratiating , it 's just grating .
+POSITIVE:0.63889 An ambitiously naturalistic , albeit half-baked , drama about an abused , inner-city autistic teen .
+NEGATIVE:0.18056 once she lets her love depraved leads meet , -LRB- Denis ' -RRB- story becomes a hopeless , unsatisfying muddle
+NEGATIVE:0.23611 What 's really sad is to see two Academy Award winning actresses -LRB- and one Academy Award winning actor -RRB- succumb to appearing in this junk that 's TV sitcom material at best .
+POSITIVE:0.625 No doubt the star and everyone else involved had their hearts in the right place .
+NEGATIVE:0.22222 Where their heads were is anyone 's guess .
+NEGATIVE:0.31944 Call me a cynic , but there 's something awfully deadly about any movie with a life-affirming message .
+NEGATIVE:0.041667 A gratingly unfunny groaner littered with zero-dimensional , unlikable characters and hackneyed , threadbare comic setups .
+POSITIVE:0.69444 Got some good , organic character work , lots of obvious political insights and little room for engaging , imaginative filmmaking in its nearly 2 1\/2 - hour , dissipated length .
+NEGATIVE:0.33333 A painfully slow cliche-ridden film filled with more holes than Clyde Barrow 's car .
+NEGATIVE:0.375 Like leafing through an album of photos accompanied by the sketchiest of captions .
+NEGATIVE:0.15278 I guess it just goes to show that if you give a filmmaker an unlimited amount of phony blood , nothing good can happen .
+NEGATIVE:0.16667 Gaghan captures the half-lit , sometimes creepy intimacy of college dorm rooms , a subtlety that makes the silly , over-the-top coda especially disappointing .
+NEGATIVE:0.36111 Feels less like a change in -LRB- Herzog 's -RRB- personal policy than a half-hearted fluke .
+NEGATIVE:0.055556 One of the most unpleasant things the studio has ever produced .
+NEGATIVE:0.22222 Will anyone who is n't a Fangoria subscriber be excited that it has n't gone straight to video ?
+NEGATIVE:0.30556 A selection of scenes in search of a movie .
+NEGATIVE:0.23611 -LRB- Janey -RRB- forgets about her other obligations , leading to a tragedy which is somehow guessable from the first few minutes , maybe because it echoes the by now intolerable morbidity of so many recent movies .
+NEGATIVE:0.38889 Will undoubtedly play well in European markets , where Mr. Besson is a brand name , and in Asia , where Ms. Shu is an institution , but American audiences will probably find it familiar and insufficiently cathartic .
+NEGATIVE:0.13889 True to its animatronic roots : ... as stiff , ponderous and charmless as a mechanical apparatus ... ` The Country Bears ' should never have been brought out of hibernation .
+NEGATIVE:0.25 -LRB- Evans is -RRB- a fascinating character , and deserves a better vehicle than this facetious smirk of a movie .
+NEGATIVE:0.16667 The script 's judgment and sense of weight is way , way off .
+NEGATIVE:0.16667 Evelyn may be based on a true and historically significant story , but the filmmakers have made every effort to disguise it as an unimaginative screenwriter 's invention .
+NEGATIVE:0.083333 A derivative collection of horror and sci-fi cliches .
+NEGATIVE:0.16667 Loosely speaking , we 're in All of Me territory again , and , strictly speaking , Schneider is no Steve Martin .
+NEGATIVE:0.11111 As aimless as an old pickup skidding completely out of control on a long patch of black ice , the movie makes two hours feel like four .
+NEGATIVE:0.27778 Limps along on a squirm-inducing fish-out-of-water formula that goes nowhere and goes there very , very slowly .
+NEGATIVE:0.30556 Just the sort of lazy tearjerker that gives movies about ordinary folk a bad name .
+NEGATIVE:0.33333 The redeeming feature of Chan 's films has always been the action , but the stunts in The Tuxedo seem tired and , what 's worse , routine .
+NEGATIVE:0.38889 While The Importance of Being Earnest offers opportunities for occasional smiles and chuckles , it does n't give us a reason to be in the theater beyond Wilde 's wit and the actors ' performances .
+NEGATIVE:0.027778 Has all the scenic appeal of a cesspool .
+NEGATIVE:0.22222 A rambling ensemble piece with loosely connected characters and plots that never quite gel .
+NEGATIVE:0.26389 It 's hard to say who might enjoy this , are there Tolstoy groupies out there ?
+NEGATIVE:0.22222 This is a movie that starts out like Heathers , then becomes Bring it On , then becomes unwatchable .
+NEGATIVE:0.29167 The screenplay flounders under the weight of too many story lines .
+NEGATIVE:0.26389 I think it was Plato who said , ' I think , therefore I know better than to rush to the theatre for this one . '
+NEGATIVE:0.23611 If Damon and Affleck attempt another Project Greenlight , next time out they might try paying less attention to the miniseries and more attention to the film it is about .
+NEGATIVE:0.36111 This is rote drivel aimed at Mom and Dad 's wallet .
+NEGATIVE:0.13889 Contrived , maudlin and cliche-ridden ... if this sappy script was the best the contest received , those rejected must have been astronomically bad .
+NEGATIVE:0.11111 I hate the feeling of having been slimed in the name of High Art .
+NEGATIVE:0.27778 The kids in the audience at the preview screening seemed bored , cheering the pratfalls but little else ; their parents , wise folks that they are , read books .
+NEGATIVE:0.16667 Whether Jason X is this bad on purpose is never clear .
+NEGATIVE:0.097222 But one thing 's for sure : It never comes close to being either funny or scary .
+POSITIVE:0.68056 I like all four of the lead actors a lot and they manage to squeeze a few laughs out of the material , but they 're treading water at best in this forgettable effort .
+NEGATIVE:0.11111 is that it 's a crime movie made by someone who obviously knows nothing about crime .
+NEGATIVE:0.20833 This insufferable movie is meant to make you think about existential suffering .
+NEGATIVE:0.18056 Instead , it 'll only put you to sleep .
+NEGATIVE:0.19444 It 's also not smart or barbed enough for older viewers -- not everyone thinks poo-poo jokes are ` edgy . '
+NEGATIVE:0.11111 A sleep-inducingly slow-paced crime drama with clumsy dialogue , heavy-handed phoney-feeling sentiment , and an overly-familiar set of plot devices .
+NEGATIVE:0.26389 It 's so tedious that it makes you forgive every fake , dishonest , entertaining and , ultimately , more perceptive moment in Bridget Jones 's Diary .
+NEGATIVE:0.20833 Almost as offensive as `` Freddy Got Fingered . ''
+NEGATIVE:0.31944 The gifted Crudup has the perfect face to play a handsome blank yearning to find himself , and his cipherlike personality and bad behavior would play fine if the movie knew what to do with him .
+NEGATIVE:0.083333 It is depressing , ruthlessly pained and depraved , the movie equivalent of staring into an open wound .
+NEGATIVE:0.25 Ponderous , plodding soap opera disguised as a feature film .
+NEGATIVE:0.26389 Cold , pretentious , thoroughly dislikable study in sociopathy .
+NEGATIVE:0.041667 For the future , one hopes Mr. Plympton will find room for one more member of his little band , a professional screenwriter .
+NEGATIVE:0.0 A cheap scam put together by some cynical creeps at Revolution Studios and Imagine Entertainment to make the suckers out there surrender $ 9 and 93 minutes of unrecoverable life .
+NEGATIVE:0.30556 Reign of Fire never comes close to recovering from its demented premise , but it does sustain an enjoyable level of ridiculousness .
+POSITIVE:0.66667 Human Nature is a goofball movie , in the way that Malkovich was , but it tries too hard .
+NEGATIVE:0.26389 Originality is sorely lacking .
+POSITIVE:0.84722 But while the highly predictable narrative falls short , Treasure Planet is truly gorgeous to behold .
+NEGATIVE:0.30556 Though there are entertaining and audacious moments , the movie 's wildly careening tone and an extremely flat lead performance do little to salvage this filmmaker 's flailing reputation .
+NEGATIVE:0.083333 For a story set at sea , Ghost Ship is pretty landbound , with its leaden acting , dull exposition and telegraphed ` surprises . '
+NEGATIVE:0.22222 There might be some sort of credible gender-provoking philosophy submerged here , but who the hell cares ?
+NEGATIVE:0.20833 Nothing more than a stifling morality tale dressed up in peekaboo clothing .
+NEGATIVE:0.19444 I like my Christmas movies with more elves and snow and less pimps and ho 's .
+NEGATIVE:0.20833 It all seemed wasted like DeNiro 's once promising career and the once grand Long Beach boardwalk .
+NEGATIVE:0.34722 -LRB- I -RRB- t 's certainly laudable that the movie deals with hot-button issues in a comedic context , but Barbershop is n't as funny as it should be .
+NEGATIVE:0.23611 Unfortunately , a cast of competent performers from movies , television and the theater are cast adrift in various New York City locations with no unifying rhythm or visual style .
+NEGATIVE:0.097222 Equilibrium the movie , as opposed to the manifesto , is really , really stupid .
+NEGATIVE:0.25 Excruciatingly unfunny and pitifully unromantic .
+NEGATIVE:0.20833 The film 's thoroughly recycled plot and tiresome jokes ... drag the movie down .
+NEGATIVE:0.26389 It does n't offer audiences any way of gripping what its point is , or even its attitude toward its subject .
+NEGATIVE:0.027778 This kiddie-oriented stinker is so bad that I even caught the gum stuck under my seat trying to sneak out of the theater
+NEGATIVE:0.30556 Though Impostor deviously adopts the guise of a modern motion picture , it too is a bomb .
+NEGATIVE:0.19444 Cox offers plenty of glimpses at existing photos , but there are no movies of Nijinsky , so instead the director treats us to an aimless hodgepodge .
+NEGATIVE:0.33333 Every note rings false .
+NEGATIVE:0.36111 When the screenwriter responsible for one of the worst movies of one year directs an equally miserable film the following year , you 'd have a hard time believing it was just coincidence .
+NEGATIVE:0.33333 It never rises to its clever what-if concept .
+NEGATIVE:0.33333 This story of unrequited love does n't sustain interest beyond the first half-hour .
+NEGATIVE:0.20833 This angst-ridden territory was covered earlier and much better in Ordinary People .
+NEGATIVE:0.069444 The entire film is one big excuse to play one lewd scene after another .
+NEGATIVE:0.29167 About half of them are funny , a few are sexy and none are useful in telling the story , which is paper-thin and decidedly unoriginal .
+NEGATIVE:0.23611 A big , loud , bang-the-drum bore .
+NEGATIVE:0.027778 -LRB- Less a movie than -RRB- an appalling , odoriferous thing ... so rotten in almost every single facet of production that you 'll want to crawl up your own \*\*\* in embarrassment .
+POSITIVE:0.79167 The concept behind Kung Pow : Enter the Fist is hilarious .
+NEGATIVE:0.27778 El Crimen Del Padre Amaro would likely be most effective if used as a tool to rally anti-Catholic protestors .
+POSITIVE:0.61111 Interesting and thoroughly unfaithful version of Carmen
+POSITIVE:0.83333 A serious movie with serious ideas .
+NEGATIVE:0.26389 But seriously , folks , it does n't work .
+NEGATIVE:0.33333 There 's nothing exactly wrong here , but there 's not nearly enough that 's right .
+NEGATIVE:0.30556 The action here is unusually tame , the characters are too simplistic to maintain interest , and the plot offers few surprises .
+NEGATIVE:0.27778 I could n't help but feel the wasted potential of this slapstick comedy .
+NEGATIVE:0.26389 What Madonna does here ca n't properly be called acting -- more accurately , it 's moving and it 's talking and it 's occasionally gesturing , sometimes all at once .
+NEGATIVE:0.27778 -LRB- A -RRB- painfully flat gross-out comedy ...
+NEGATIVE:0.125 Even if you 're an Elvis person , you wo n't find anything to get excited about on this DVD .
+NEGATIVE:0.25 It 's bedeviled by labored writing and slack direction .
+NEGATIVE:0.375 I 'm sure there 's a teenage boy out there somewhere who 's dying for this kind of entertainment .
+NEGATIVE:0.11111 The Tuxedo miscalculates badly by forcing the star to play second fiddle to the dull effects that allow the suit to come to life .
+NEGATIVE:0.26389 The film is a confusing melange of tones and styles , one moment a romantic trifle and the next a turgid drama .
+NEGATIVE:0.22222 Obviously , a lot of people wasted a lot of their time -LRB- including mine -RRB- on something very inconsequential .
+NEGATIVE:0.20833 There 's a little violence and lots of sex in a bid to hold our attention , but it grows monotonous after a while , as do Joan and Philip 's repetitive arguments , schemes and treachery .
+NEGATIVE:0.26389 It drowns in sap .
+POSITIVE:0.70833 Deliberately and devotedly constructed , Far from Heaven is too picture postcard perfect , too neat and new pin-like , too obviously a recreation to resonate .
+NEGATIVE:0.34722 It 's rare that a movie can be as intelligent as this one is in every regard except its storyline ; everything that 's good is ultimately scuttled by a plot that 's just too boring and obvious .
+NEGATIVE:0.22222 I 'm giving it thumbs down due to the endlessly repetitive scenes of embarrassment .
+NEGATIVE:0.31944 There 's got to be a more graceful way of portraying the devastation of this disease .
+NEGATIVE:0.375 The modern-day characters are nowhere near as vivid as the 19th-century ones .
+POSITIVE:0.83333 Blessed with a searing lead performance by Ryan Gosling -LRB- Murder by Numbers -RRB- , the movie is powerful and provocative .
+NEGATIVE:0.27778 It 's also built on a faulty premise , one it follows into melodrama and silliness .
+NEGATIVE:0.30556 Uneven performances and a spotty script add up to a biting satire that has no teeth .
+NEGATIVE:0.33333 Director Jay Russell stomps in hobnail boots over Natalie Babbitt 's gentle , endearing 1975 children 's novel .
+NEGATIVE:0.22222 The troubling thing about Clockstoppers is that it does n't make any sense .
+NEGATIVE:0.27778 With its paint fights , motorized scooter chases and dewy-eyed sentiment , it 's a pretty listless collection of kid-movie cliches .
+NEGATIVE:0.22222 Kicks off with an inauspicious premise , mopes through a dreary tract of virtually plotless meanderings and then ends with a whimper .
+NEGATIVE:0.29167 A rote exercise in both animation and storytelling .
+NEGATIVE:0.31944 The material and the production itself are little more than routine .
+NEGATIVE:0.26389 The movie 's major and most devastating flaw is its reliance on formula , though , and it 's quite enough to lessen the overall impact the movie could have had .
+NEGATIVE:0.16667 Not even Steven Spielberg has dreamed up such blatant and sickening product placement in a movie .
+NEGATIVE:0.125 It 's all surface psychodramatics .
+NEGATIVE:0.31944 The Mothman Prophecies , which is mostly a bore , seems to exist only for its climactic setpiece .
+NEGATIVE:0.23611 That frenetic spectacle -LRB- on the TV show -RRB- has usually been leavened by a charm that 's conspicuously missing from the Girls ' big-screen blowout .
+NEGATIVE:0.19444 Kitschy , flashy , overlong soap opera .
+NEGATIVE:0.38889 For all the time we spend with these people , we never really get inside of them .
+NEGATIVE:0.26389 Yet another Arnold vehicle that fails to make adequate use of his particular talents .
+NEGATIVE:0.27778 Sandra Bullock , despite downplaying her good looks , carries a little too much ai n't - she-cute baggage into her lead role as a troubled and determined homicide cop to quite pull off the heavy stuff .
+NEGATIVE:0.19444 An undistinguished attempt to make a classic theater piece cinematic .
+NEGATIVE:0.18056 too many scenarios in which the hero might have an opportunity to triumphantly sermonize , and too few that allow us to wonder for ourselves if things will turn out okay .
+NEGATIVE:0.25 There is simply not enough of interest onscreen to sustain its seventy-minute running time .
+NEGATIVE:0.22222 Broomfield 's style of journalism is hardly journalism at all , and even those with an avid interest in the subject will grow impatient .
+NEGATIVE:0.26389 -LRB- Seagal 's -RRB- strenuous attempt at a change in expression could very well clinch him this year 's Razzie .
+NEGATIVE:0.16667 Has the disjointed feel of a bunch of strung-together TV episodes .
+NEGATIVE:0.33333 A series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .
+NEGATIVE:0.11111 Ozpetek offers an AIDS subtext , skims over the realities of gay sex , and presents yet another tired old vision of the gay community as an all-inclusive world where uptight , middle class bores like Antonia can feel good about themselves .
+NEGATIVE:0.055556 The Sweetest Thing is expressly for idiots who do n't care what kind of sewage they shovel into their mental gullets to simulate sustenance .
+NEGATIVE:0.083333 Sinks so low in a poorly played game of absurd plot twists , idiotic court maneuvers and stupid characters that even Freeman ca n't save it .
+NEGATIVE:0.27778 It made me realize that we really have n't had a good cheesy B-movie playing in theaters since ... well ... since last week 's Reign of Fire .
+NEGATIVE:0.25 Some movies were made for the big screen , some for the small screen , and some , like Ballistic : Ecks vs. Sever , were made for the palm screen .
+NEGATIVE:0.22222 SC2 is an autopilot Hollywood concoction lacking in imagination and authentic Christmas spirit , yet it 's geared toward an audience full of masters of both .
+NEGATIVE:0.29167 Seems content to dog-paddle in the mediocre end of the pool , and it 's a sad , sick sight .
+POSITIVE:0.875 It 's refreshing that someone understands the need for the bad boy ; Diesel , with his brawny frame and cool , composed delivery , fits the bill perfectly .
+NEGATIVE:0.23611 Suffers from a flat script and a low budget .
+POSITIVE:0.65278 There are deeply religious and spiritual people in this world who would argue that entering a church , synagogue or temple does n't mean you have to check your brain at the door .
+NEGATIVE:0.18056 Seemingly a vehicle to showcase the Canadian 's inane ramblings , Stealing Harvard is a smorgasbord of soliloquies about nothing delivered by the former Mr. Drew Barrymore .
+NEGATIVE:0.083333 This franchise has not spawned a single good film .
+NEGATIVE:0.15278 The crap continues .
+NEGATIVE:0.15278 When it comes out on video , then it 's the perfect cure for insomnia .
+NEGATIVE:0.23611 Like a comedian who starts off promisingly but then proceeds to flop , Comedian runs out of steam after a half hour .
+NEGATIVE:0.25 The pairing does sound promising in theory ... but their lack of chemistry makes Eddie Murphy and Robert DeNiro in Showtime look like old , familiar vaudeville partners .
+NEGATIVE:0.33333 I could just feel the screenwriter at every moment ` Tap , tap , tap , tap , tapping away ' on this screenplay .
+NEGATIVE:0.11111 A stupid , derivative horror film that substitutes extreme gore for suspense .
+NEGATIVE:0.26389 The rollerball sequences feel sanitised and stagey .
+NEGATIVE:0.375 Roman Polanski directs The Pianist like a surgeon mends a broken heart ; very meticulously but without any passion .
+NEGATIVE:0.29167 This is an action movie with an action icon who 's been all but decommissioned .
+NEGATIVE:0.375 Even if it is generally amusing from time to time , I Spy has all the same problems the majority of action comedies have .
+NEGATIVE:0.20833 Much like Robin Williams , Death to Smoochy has already reached its expiration date .
+NEGATIVE:0.125 An annoying orgy of excess and exploitation that has no point and goes nowhere .
+NEGATIVE:0.125 A tired , unnecessary retread ... a stale copy of a picture that was n't all that great to begin with .
+NEGATIVE:0.25 A worthy idea , but the uninspired scripts , acting and direction never rise above the level of an after-school TV special .
+NEGATIVE:0.36111 Ear-splitting exercise in formula crash-and-bash action .
+NEGATIVE:0.15278 The emotional overload of female angst irreparably drags the film down .
+NEGATIVE:0.29167 Schaefer 's ... determination to inject farcical raunch ... drowns out the promise of the romantic angle .
+NEGATIVE:0.27778 Like Showgirls and Glitter , the most entertaining moments here are unintentional .
+NEGATIVE:0.29167 While some of the camera work is interesting , the film 's mid-to-low budget is betrayed by the surprisingly shoddy makeup work .
+NEGATIVE:0.27778 It 's in the action scenes that things fall apart .
+NEGATIVE:0.26389 Impostor is a step down for director Gary Fleder .
+NEGATIVE:0.19444 Seagal , who looks more like Danny Aiello these days , mumbles his way through the movie .
+NEGATIVE:0.20833 The movie is a negligible work of manipulation , an exploitation piece doing its usual worst to guilt-trip parents .
+NEGATIVE:0.20833 Lacks dramatic punch and depth .
+NEGATIVE:0.11111 I can analyze this movie in three words : Thumbs Friggin ' Down .
+NEGATIVE:0.31944 Sadly , ` Garth ' has n't progressed as nicely as ` Wayne . '
+NEGATIVE:0.11111 Make like the title and dodge this one .
+NEGATIVE:0.16667 This is not one of the movies you 'd want to watch if you only had a week to live .
+NEGATIVE:0.34722 The first hour is tedious though Ford and Neeson capably hold our interest , but its just not a thrilling movie .
+NEGATIVE:0.33333 Here 's a case of two actors who do everything humanly possible to create characters who are sweet and believable , and are defeated by a screenplay that forces them into bizarre , implausible behavior .
+NEGATIVE:0.23611 -LRB- Green is -RRB- the comedy equivalent of Saddam Hussein , and I 'm just about ready to go to the U.N. and ask permission for a preemptive strike .
+NEGATIVE:0.22222 No amount of good acting is enough to save Oleander 's uninspired story .
+NEGATIVE:0.083333 A vile , incoherent mess ... a scummy ripoff of David Cronenberg 's brilliant ` Videodrome . '
+NEGATIVE:0.33333 Murphy and Wilson actually make a pretty good team ... but the project surrounding them is distressingly rote .
+NEGATIVE:0.125 Think The Lion King redone for horses , with fewer deliberate laughs , more inadvertent ones and stunningly trite songs by Bryan Adams , the world 's most generic rock star .
+NEGATIVE:0.26389 A small fortune in salaries and stunt cars might have been saved if the director , Tom Dey , had spliced together bits and pieces of Midnight Run and 48 Hours -LRB- and , for that matter , Shrek -RRB- .
+NEGATIVE:0.097222 An amateurish , quasi-improvised acting exercise shot on ugly digital video .
+NEGATIVE:0.22222 The holes in this film remain agape -- holes punched through by an inconsistent , meandering , and sometimes dry plot .
+NEGATIVE:0.18056 Would Benigni 's Italian Pinocchio have been any easier to sit through than this hastily dubbed disaster ?
+NEGATIVE:0.30556 Officially , it is twice as bestial but half as funny .
+NEGATIVE:0.16667 This is a fragmented film , once a good idea that was followed by the bad idea to turn it into a movie .
+POSITIVE:0.73611 Mindless yet impressively lean spinoff of last summer 's bloated effects fest The Mummy Returns .
+NEGATIVE:0.33333 Halfway through the movie , the humor dwindles .
+NEGATIVE:0.33333 It 's replaced by some dramatic scenes that are jarring and deeply out of place in what could have -LRB- and probably should have -RRB- been a lighthearted comedy .
+NEGATIVE:0.11111 Control-Alt-Delete Simone as quickly as possible
+NEGATIVE:0.20833 Follows the original film virtually scene for scene and yet manages to bleed it almost completely dry of humor , verve and fun .
+NEGATIVE:0.25 Has lost some of the dramatic conviction that underlies the best of comedies ...
+NEGATIVE:0.375 Vaguely interesting , but it 's just too too much .
+NEGATIVE:0.11111 ... no charm , no laughs , no fun , no reason to watch .
+NEGATIVE:0.16667 A generic family comedy unlikely to be appreciated by anyone outside the under-10 set .
+NEGATIVE:0.19444 Kung Pow seems like some futile concoction that was developed hastily after Oedekerk and his fellow moviemakers got through crashing a college keg party .
+NEGATIVE:0.30556 Kurys seems intimidated by both her subject matter and the period trappings of this debut venture into the heritage business .
+NEGATIVE:0.23611 A manipulative feminist empowerment tale thinly posing as a serious drama about spousal abuse .
+POSITIVE:0.77778 Everything in Maid in Manhattan is exceedingly pleasant , designed not to offend .
+POSITIVE:0.72222 It goes down easy , leaving virtually no aftertaste .
+NEGATIVE:0.097222 A profoundly stupid affair , populating its hackneyed and meanspirited storyline with cardboard characters and performers who value cash above credibility .
+NEGATIVE:0.25 Time stands still in more ways that one in Clockstoppers , a sci-fi thriller as lazy as it is interminable .
+NEGATIVE:0.19444 As a director , Eastwood is off his game -- there 's no real sense of suspense , and none of the plot ` surprises ' are really surprising .
+NEGATIVE:0.30556 A puzzle whose pieces do not fit .
+NEGATIVE:0.26389 Would that Greengrass had gone a tad less for grit and a lot more for intelligibility .
+NEGATIVE:0.34722 ` Butterfingered ' is the word for the big-fisted direction of Jez Butterworth , who manages to blast even the smallest sensitivities from the romance with his clamorous approach .
+NEGATIVE:0.15278 Be forewarned , if you 're depressed about anything before watching this film , you may just end up trying to drown yourself in a lake afterwards .
+NEGATIVE:0.11111 a terrible adaptation of a play that only ever walked the delicate tightrope between farcical and loathsome .
+NEGATIVE:0.22222 In the wrong hands , i.e. Peploe 's , it 's simply unbearable
+NEGATIVE:0.31944 An inexperienced director , Mehta has much to learn .
+NEGATIVE:0.11111 A limp Eddie Murphy vehicle that even he seems embarrassed to be part of .
+NEGATIVE:0.11111 So muddled , repetitive and ragged that it says far less about the horrifying historical reality than about the filmmaker 's characteristic style .
+NEGATIVE:0.38889 A gushy episode of `` M \* A \* S \* H '' only this time from an Asian perspective .
+NEGATIVE:0.26389 `` Looking For Leonard '' just seems to kinda sit in neutral , hoping for a stiff wind to blow it uphill or something .
+NEGATIVE:0.20833 Nothing more than four or five mild chuckles surrounded by 86 minutes of overly-familiar and poorly-constructed comedy .
+POSITIVE:0.72222 Definitely in the guilty pleasure B-movie category , Reign of Fire is so incredibly inane that it is laughingly enjoyable .
+NEGATIVE:0.29167 ... one resurrection too many .
+NEGATIVE:0.26389 This is a film about the irksome , tiresome nature of complacency that remains utterly satisfied to remain the same throughout .
+NEGATIVE:0.29167 Even as the hero of the story rediscovers his passion in life , the mood remains oddly detached .
+NEGATIVE:0.22222 In spite of featuring a script credited to no fewer than five writers , apparently nobody here bothered to check it twice .
+NEGATIVE:0.16667 No one involved , save Dash , shows the slightest aptitude for acting , and the script , credited to director Abdul Malik Abbott and Ernest ` Tron ' Anderson , seems entirely improvised .
+POSITIVE:0.61111 Initially gripping , eventually cloying POW drama .
+NEGATIVE:0.34722 A timid , soggy near miss .
+NEGATIVE:0.30556 Works better in the conception than it does in the execution ... winds up seeming just a little too clever .
+NEGATIVE:0.375 To the vast majority of more casual filmgoers , it will probably be a talky bore .
+NEGATIVE:0.38889 Shunji Iwai 's All About Lily Chou Chou is a beautifully shot , but ultimately flawed film about growing up in Japan .
+NEGATIVE:0.375 With more character development this might have been an eerie thriller ; with better payoffs , it could have been a thinking man 's monster movie .
+NEGATIVE:0.125 There 's not a single jump-in-your-seat moment and believe it or not , Jason actually takes a backseat in his own film to special effects .
+POSITIVE:0.77778 Goldbacher draws on an elegant visual sense and a talent for easy , seductive pacing ... but she and writing partner Laurence Coriat do n't manage an equally assured narrative coinage .
+NEGATIVE:0.27778 Though Harris is affecting at times , he can not overcome the sense that Pumpkin is a mere plot pawn for two directors with far less endearing disabilities .
+NEGATIVE:0.16667 The documentary is much too conventional -- lots of boring talking heads , etc. -- to do the subject matter justice .
+NEGATIVE:0.375 The movie itself appears to be running on hypertime in reverse as the truly funny bits get further and further apart .
+NEGATIVE:0.38889 This is not a Jackie Chan movie .
+NEGATIVE:0.33333 It 's just a movie that happens to have Jackie Chan in it .
+POSITIVE:0.65278 And that makes all the difference .
+NEGATIVE:0.19444 Far too clever by half , Howard 's film is really a series of strung-together moments , with all the spaces in between filled with fantasies , daydreams , memories and one fantastic visual trope after another .
+NEGATIVE:0.36111 The problem with movies about angels is they have a tendency to slip into hokum .
+NEGATIVE:0.19444 A Rumor of Angels does n't just slip -- it avalanches into forced fuzziness .
+NEGATIVE:0.097222 No big whoop , nothing new to see , zero thrills , too many flashbacks and a choppy ending make for a bad film .
+NEGATIVE:0.23611 I do n't think this movie loves women at all .
+NEGATIVE:0.16667 Shankman ... and screenwriter Karen Janszen bungle their way through the narrative as if it were a series of Bible parables and not an actual story .
+NEGATIVE:0.375 A negligible British comedy .
+NEGATIVE:0.31944 Fails to convince the audience that these brats will ever be anything more than losers .
+NEGATIVE:0.125 Slack and uninspired , and peopled mainly by characters so unsympathetic that you 're left with a sour taste in your mouth .
+NEGATIVE:0.027778 Skip this turd and pick your nose instead because you 're sure to get more out of the latter experience .
+NEGATIVE:0.23611 Her film is like a beautiful food entree that is n't heated properly , so that it ends up a bit cold and relatively flavorless .
+NEGATIVE:0.27778 Like the world of his film , Hartley created a monster but did n't know how to handle it .
+NEGATIVE:0.27778 No new plot conceptions or environmental changes , just different bodies for sharp objects to rip through .
+NEGATIVE:0.31944 Needs more impressionistic cinematography and exhilarating point-of-view shots and fewer slow-motion ` grandeur ' shots and quick-cut edits that often detract from the athleticism .
+NEGATIVE:0.16667 In the end , there is n't much to it .
+NEGATIVE:0.22222 A waste of fearless purity in the acting craft .
+NEGATIVE:0.375 The film is ultimately about as inspiring as a Hallmark card .
+NEGATIVE:0.26389 Anyone not into high-tech splatterfests is advised to take the warning literally , and log on to something more user-friendly .
+NEGATIVE:0.34722 Yet another entry in the sentimental oh-those-wacky-Brits genre that was ushered in by The Full Monty and is still straining to produce another smash hit .
+NEGATIVE:0.097222 for those for whom the name Woody Allen was once a guarantee of something fresh , sometimes funny , and usually genuinely worthwhile , Hollywood Ending is a depressing experience
+NEGATIVE:0.31944 Femme Fatale offers nothing more than a bait-and-switch that is beyond playing fair with the audience .
+NEGATIVE:0.36111 Are we dealing with dreams , visions or being told what actually happened as if it were the third ending of Clue ?
+NEGATIVE:0.18056 It could have been something special , but two things drag it down to mediocrity -- director Clare Peploe 's misunderstanding of Marivaux 's rhythms , and Mira Sorvino 's limitations as a classical actress .
+NEGATIVE:0.23611 Fluffy neo-noir hiding behind cutesy film references .
+NEGATIVE:0.27778 Imagine Susan Sontag falling in love with Howard Stern .
+NEGATIVE:0.27778 Should have been worth cheering as a breakthrough but is devoid of wit and humor .
+POSITIVE:0.72222 The best thing about the movie is its personable , amusing cast .
+NEGATIVE:0.36111 These guys seem great to knock back a beer with but they 're simply not funny performers .
+NEGATIVE:0.11111 Everything was as superficial as the forced New Jersey lowbrow accent Uma had .
+NEGATIVE:0.25 Director David Fincher and writer David Koepp ca n't sustain it .
+NEGATIVE:0.16667 One of the most highly-praised disappointments I 've had the misfortune to watch in quite some time .
+NEGATIVE:0.375 Director Shekhar Kapur and screenwriters Michael Schiffer and Hossein Amini have tried hard to modernize and reconceptualize things , but the barriers finally prove to be too great .
+NEGATIVE:0.15278 Strong filmmaking requires a clear sense of purpose , and in that oh-so-important category , The Four Feathers comes up short .
+NEGATIVE:0.097222 A grand fart coming from a director beginning to resemble someone 's crazy French grandfather .
+NEGATIVE:0.36111 The script is a disaster , with cloying messages and irksome characters .
+NEGATIVE:0.23611 Hollywood has taken quite a nosedive from Alfred Hitchcock 's imaginative flight to Shyamalan 's self-important summer fluff .
+NEGATIVE:0.20833 The film 's maudlin focus on the young woman 's infirmity and her naive dreams play like the worst kind of Hollywood heart-string plucking .
+POSITIVE:0.75 I firmly believe that a good video game movie is going to show up soon .
+NEGATIVE:0.29167 I also believe that Resident Evil is not it .
+NEGATIVE:0.23611 It has the air of a surprisingly juvenile lark , a pop-influenced prank whose charms are immediately apparent and wear thin with repetition .
+NEGATIVE:0.22222 This is cruel , misanthropic stuff with only weak claims to surrealism and black comedy .
+NEGATIVE:0.16667 No amount of nostalgia for Carvey 's glory days can disguise the fact that the new film is a lame kiddie flick and that Carvey 's considerable talents are wasted in it .
+NEGATIVE:0.31944 Lazily directed by Charles Stone III ... from a leaden script by Matthew Cirulnick and novelist Thulani Davis .
+NEGATIVE:0.29167 Though Jones and Snipes are enthralling , the movie bogs down in rhetoric and cliche .
+NEGATIVE:0.15278 An artsploitation movie with too much exploitation and too little art .
+NEGATIVE:0.19444 The pacing is often way off and there are too many bona fide groaners among too few laughs .
+NEGATIVE:0.22222 Barely manages for but a few seconds over its seemingly eternal running time to pique your interest , your imagination , your empathy or anything , really , save your disgust and your indifference .
+POSITIVE:0.65278 Writer\/director Burr Steers emphasizes the Q in Quirky , with mixed results .
+NEGATIVE:0.33333 One senses in World Traveler and in his earlier film that Freundlich bears a grievous but obscure complaint against fathers , and circles it obsessively , without making contact .
+POSITIVE:0.75 In between the icy stunts , the actors spout hilarious dialogue about following your dream and ` just letting the mountain tell you what to do . '
+NEGATIVE:0.11111 is a mess .
+NEGATIVE:0.125 Hypnotically dull , relentlessly downbeat , laughably predictable wail pitched to the cadence of a depressed fifteen-year-old 's suicidal poetry .
+POSITIVE:0.75 The concept is a hoot .
+POSITIVE:0.80556 The trailer is a riot .
+NEGATIVE:0.013889 The movie is a dud .
+POSITIVE:0.65278 It 's a boring movie about a boring man , made watchable by a bravura performance from a consummate actor incapable of being boring .
+NEGATIVE:0.18056 Because the intelligence level of the characters must be low , very low , very very low , for the masquerade to work , the movie contains no wit , only labored gags .
+NEGATIVE:0.18056 It 's hard to imagine another director ever making his wife look so bad in a major movie .
+NEGATIVE:0.23611 These characters become wearisome .
+NEGATIVE:0.26389 A hit - and-miss affair , consistently amusing but not as outrageous or funny as Cho may have intended or as imaginative as one might have hoped .
+NEGATIVE:0.30556 This may be the first cartoon ever to look as if it were being shown on the projection television screen of a sports bar .
+NEGATIVE:0.26389 Kim Ki-Deok seems to have in mind an -LRB- emotionally at least -RRB- adolescent audience demanding regular shocks and bouts of barely defensible sexual violence to keep it interested .
+NEGATIVE:0.13889 After sitting through this sloppy , made-for-movie comedy special , it makes me wonder if Lawrence hates criticism so much that he refuses to evaluate his own work .
+NEGATIVE:0.20833 Contrived pastiche of caper cliches .
+NEGATIVE:0.27778 Despite its sincere acting , Signs is just another unoriginal run of the mill sci-fi film with a flimsy ending and lots of hype .
+NEGATIVE:0.18056 Loud , chaotic and largely unfunny .
+NEGATIVE:0.26389 Qualities that were once amusing are becoming irritating .
+NEGATIVE:0.27778 Well , Jason 's gone to Manhattan and Hell , I guess a space station in the year 2455 can be crossed off the list of ideas for the inevitable future sequels -LRB- hey , do n't shoot the messenger -RRB- .
+NEGATIVE:0.20833 Donovan ... squanders his main asset , Jackie Chan , and fumbles the vital action sequences .
+NEGATIVE:0.18056 There is no psychology here , and no real narrative logic -- just a series of carefully choreographed atrocities , which become strangely impersonal and abstract .
+NEGATIVE:0.15278 Bread , My Sweet has so many flaws it would be easy for critics to shred it .
+NEGATIVE:0.27778 Leaks treacle from every pore .
+NEGATIVE:0.16667 The characters are so generic and the plot so bland that even as rogue CIA assassins working for Chris Cooper 's agency boss close in on the resourceful amnesiac , we do n't feel much for Damon\/Bourne or his predicament .
+NEGATIVE:0.30556 Kapur weighs down the tale with bogus profundities .
+NEGATIVE:0.22222 Blue Crush is as predictable as the tides .
+NEGATIVE:0.25 ... The movie feels stitched together from stock situations and characters from other movies .
+NEGATIVE:0.16667 If you enjoy being rewarded by a script that assumes you are n't very bright , then Blood Work is for you .
+NEGATIVE:0.34722 Trouble Every Day is a success in some sense , but it 's hard to like a film so cold and dead .
+NEGATIVE:0.31944 A well-intentioned effort that 's still too burdened by the actor 's offbeat sensibilities for the earnest emotional core to emerge with any degree of accessibility .
+NEGATIVE:0.16667 Any reasonably creative eighth-grader could have written a more credible script , though with the same number of continuity errors .
+NEGATIVE:0.22222 ... while the humor aspects of ` Jason X ' were far more entertaining than I had expected , everything else about the film tanks .
+NEGATIVE:0.30556 Like an Afterschool Special with costumes by Gianni Versace , Mad Love looks better than it feels .
+NEGATIVE:0.16667 The script , the gags , the characters are all direct-to-video stuff , and that 's where this film should have remained .
+NEGATIVE:0.33333 A thriller without thrills and a mystery devoid of urgent questions .
+NEGATIVE:0.27778 There are some laughs in this movie , but Williams ' anarchy gets tiresome , the satire is weak .
+NEGATIVE:0.19444 As steamy as last week 's pork dumplings .
+NEGATIVE:0.18056 The somber pacing and lack of dramatic fireworks make Green Dragon seem more like medicine than entertainment .
+NEGATIVE:0.30556 The filmmakers needed more emphasis on the storytelling and less on the glamorous machine that thrusts the audience into a future they wo n't much care about .
+NEGATIVE:0.055556 Another wholly unnecessary addition to the growing , moldering pile of , well , extreme stunt pictures .
+NEGATIVE:0.18056 This strenuously unfunny Showtime deserves the hook .
+NEGATIVE:0.29167 The whole thing 's fairly lame , making it par for the course for Disney sequels .
+NEGATIVE:0.34722 ... its solemn pretension prevents us from sharing the awe in which it holds itself .
+NEGATIVE:0.27778 ... the good and different idea -LRB- of middle-aged romance -RRB- is not handled well and , except for the fine star performances , there is little else to recommend `` Never Again . ''
+NEGATIVE:0.33333 If Disney 's Cinderella proved that ' a dream is a wish your heart makes , ' then Cinderella II proves that a nightmare is a wish a studio 's wallet makes .
+NEGATIVE:0.055556 Features nonsensical and laughable plotting , wooden performances , ineptly directed action sequences and some of the worst dialogue in recent memory .
+NEGATIVE:0.125 Nothing about this movie works .
+NEGATIVE:0.375 A spooky yarn of demonic doings on the high seas that works better the less the brain is engaged .
+NEGATIVE:0.25 None of Birthday Girl 's calculated events take us by surprise ...
+NEGATIVE:0.20833 Lisa Rinzler 's cinematography may be lovely , but Love Liza 's tale itself virtually collapses into an inhalant blackout , maintaining consciousness just long enough to achieve callow pretension .
+NEGATIVE:0.26389 The narrator and the other characters try to convince us that acting transfigures Esther , but she 's never seen speaking on stage ; one feels cheated , and Esther seems to remain an unchanged dullard .
+NEGATIVE:0.36111 It 's exactly the kind of movie Toback 's detractors always accuse him of making .
+NEGATIVE:0.38889 With the dog days of August upon us , think of this dog of a movie as the cinematic equivalent of high humidity .
+NEGATIVE:0.15278 The film is like sitting in a downtown cafe , overhearing a bunch of typical late-twenty-somethings natter on about nothing , and desperately wishing you could change tables .
+NEGATIVE:0.33333 This rather unfocused , all-over-the-map movie would be a lot better if it pared down its plots and characters to a few rather than dozens ... or if it were subtler ... or if it had a sense of humor .
+NEGATIVE:0.22222 Takes a clunky TV-movie approach to detailing a chapter in the life of the celebrated Irish playwright , poet and drinker .
+NEGATIVE:0.11111 Not only does the thoroughly formulaic film represent totally exemplify middle-of-the-road mainstream , it also represents glossy Hollywood at its laziest .
+NEGATIVE:0.11111 A shame that Stealing Harvard is too busy getting in its own way to be anything but frustrating , boring , and forgettable .
+NEGATIVE:0.11111 Nearly every attempt at humor here is DOA .
+NEGATIVE:0.25 Collapses under its own meager weight .
+NEGATIVE:0.22222 Technically and artistically inept .
+NEGATIVE:0.22222 Those who are only mildly curious , I fear , will be put to sleep or bewildered by the artsy and often pointless visuals .
+NEGATIVE:0.30556 Though Tom Shadyac 's film kicks off spookily enough , around the halfway mark it takes an abrupt turn into glucose sentimentality and laughable contrivance .
+NEGATIVE:0.11111 A long , dull procession of despair , set to cello music culled from a minimalist funeral .
+NEGATIVE:0.19444 Call me a cold-hearted curmudgeon for not being able to enjoy a mindless action movie , but I believe a movie can be mindless without being the peak of all things insipid .
+NEGATIVE:0.23611 Death might be a release .
+NEGATIVE:0.22222 `` -LRB- Hopkins -RRB- does n't so much phone in his performance as fax it .
+NEGATIVE:0.30556 No , even that 's too committed .
+NEGATIVE:0.27778 Sodden and glum , even in those moments where it 's supposed to feel funny and light .
+NEGATIVE:0.16667 Priggish , lethargically paced parable of renewal .
+NEGATIVE:0.38889 A beautifully shot but dull and ankle-deep ` epic . '
+NEGATIVE:0.29167 Even with its $ 50-million US budget , Pinocchio never quite achieves the feel of a fanciful motion picture .
+NEGATIVE:0.33333 This is a third-person story now , told by Hollywood , and much more ordinary for it .
+POSITIVE:0.61111 The filmmakers know how to please the eye , but it is not always the prettiest pictures that tell the best story .
+NEGATIVE:0.23611 Written , flatly , by David Kendall and directed , barely , by There 's Something About Mary co-writer Ed Decter .
+NEGATIVE:0.36111 You leave the same way you came -- a few tasty morsels under your belt , but no new friends .
+NEGATIVE:0.25 It 's depressing to see how far Herzog has fallen .
+NEGATIVE:0.055556 but rather , ` How can you charge money for this ? '
+NEGATIVE:0.25 Millions of dollars heaped upon a project of such vast proportions need to reap more rewards than spiffy bluescreen technique and stylish weaponry .
+NEGATIVE:0.33333 `` Freaky Friday , '' it 's not .
+NEGATIVE:0.30556 Perhaps a better celebration of these unfairly dismissed heroes would be a film that is n't this painfully forced , false and fabricated .
+NEGATIVE:0.375 Although no pastry is violated , this nasty comedy pokes fun at the same easy targets as other rowdy raunch-fests -- farts , boobs , unmentionables -- without much success .
+NEGATIVE:0.041667 Maybe you 'll be lucky , and there 'll be a power outage during your screening so you can get your money back .
+NEGATIVE:0.30556 The characterizations and dialogue lack depth or complexity , with the ironic exception of Scooter .
+NEGATIVE:0.15278 For the rest of us , sitting through Dahmer 's two hours amounts to little more than punishment .
+NEGATIVE:0.30556 Somewhere inside the mess that is World Traveler , there is a mediocre movie trying to get out .
+NEGATIVE:0.30556 An artful yet depressing film that makes a melodramatic mountain out of the molehill of a missing bike .
+NEGATIVE:0.19444 The movie 's ultimate point -- that everyone should be themselves -- is trite , but the screenwriter and director Michel Gondry restate it to the point of ridiculousness .
+NEGATIVE:0.38889 ... expands the horizons of boredom to the point of collapse , turning into a black hole of dullness , from which no interesting concept can escape .
+NEGATIVE:0.23611 Sad nonsense , this .
+POSITIVE:0.63889 But not without cheesy fun factor .
+NEGATIVE:0.22222 One of those decades-spanning historical epics that strives to be intimate and socially encompassing but fails to do justice to either effort in three hours of screen time .
+NEGATIVE:0.31944 The movie wavers between Hallmark card sentimentality and goofy , life-affirming moments straight out of a cellular phone commercial .
+NEGATIVE:0.20833 The director 's many dodges and turns add up to little more than a screenful of gamesmanship that 's low on both suspense and payoff .
+NEGATIVE:0.27778 While the transgressive trappings -LRB- especially the frank sex scenes -RRB- ensure that the film is never dull , Rodrigues 's beast-within metaphor is ultimately rather silly and overwrought , making the ambiguous ending seem goofy rather than provocative .
+NEGATIVE:0.15278 The satire is unfocused , while the story goes nowhere .
+NEGATIVE:0.29167 They threw loads of money at an idea that should 've been so much more even if it was only made for teenage boys and wrestling fans .
+NEGATIVE:0.041667 It 's mired in a shabby script that piles layer upon layer of Action Man cliche atop wooden dialogue and a shifting tone that falls far short of the peculiarly moral amorality of -LRB- Woo 's -RRB- best work .
+NEGATIVE:0.22222 Reyes ' directorial debut has good things to offer , but ultimately it 's undone by a sloppy script
+NEGATIVE:0.16667 If you 're over 25 , have an IQ over 90 , and have a driver 's license , you should be able to find better entertainment .
+NEGATIVE:0.25 The darker elements of misogyny and unprovoked violence suffocate the illumination created by the two daughters and the sparse instances of humor meant to shine through the gloomy film noir veil .
+NEGATIVE:0.38889 Never does `` Lilo & Stitch '' reach the emotion or timelessness of Disney 's great past , or even that of more recent successes such as `` Mulan '' or `` Tarzan . ''
+NEGATIVE:0.29167 One of those so-so films that could have been much better .
+NEGATIVE:0.097222 Crossroads feels like a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama .
+NEGATIVE:0.25 Fails to satisfactorily exploit its gender politics , genre thrills or inherent humor .
+NEGATIVE:0.38889 Interview With the Assassin is structured less as a documentary and more as a found relic , and as such the film has a difficult time shaking its Blair Witch Project real-time roots .
+NEGATIVE:0.38889 Cacoyannis ' vision is far less mature , interpreting the play as a call for pity and sympathy for anachronistic phantasms haunting the imagined glory of their own pasts .
+NEGATIVE:0.29167 It has more in common with a fireworks display than a movie , which normally is expected to have characters and a storyline .
+NEGATIVE:0.13889 It appears to have been made by people to whom the idea of narrative logic or cohesion is an entirely foreign concept .
+NEGATIVE:0.20833 It 's not helpful to listen to extremist name-calling , regardless of whether you think Kissinger was a calculating fiend or just a slippery self-promoter .
+NEGATIVE:0.34722 Abandon spends 90 minutes trying figure out whether or not some cocky pseudo-intellectual kid has intentionally left college or was killed .
+NEGATIVE:0.125 The only problem is that , by the end , no one in the audience or the film seems to really care .
+POSITIVE:0.94444 No Such Thing is sort of a minimalist Beauty and the Beast , but in this case the Beast should definitely get top billing .
+POSITIVE:0.65278 Robert John Burke as The Monster horns in and steals the show .
+NEGATIVE:0.11111 Due to stodgy , soap opera-ish dialogue , the rest of the cast comes across as stick figures reading lines from a TelePrompTer .
+NEGATIVE:0.31944 -LRB- T -RRB- he film is never sure to make a clear point -- even if it seeks to rely on an ambiguous presentation .
+POSITIVE:0.69444 While it may not add up to the sum of its parts , Holofcener 's film offers just enough insight to keep it from being simpleminded , and the ensemble cast is engaging enough to keep you from shifting in your chair too often .
+NEGATIVE:0.16667 Nobody seems to have cared much about any aspect of it , from its cheesy screenplay to the grayish quality of its lighting to its last-minute , haphazard theatrical release .
+NEGATIVE:0.20833 ... another example of how Sandler is losing his touch .
+NEGATIVE:0.16667 Nothing sticks , really , except a lingering creepiness one feels from being dragged through a sad , sordid universe of guns , drugs , avarice and damaged dreams .
+NEGATIVE:0.31944 What goes on for the 110 minutes of `` Panic Room '' is a battle of witlessness between a not-so-bright mother and daughter and an even less capable trio of criminals .
+NEGATIVE:0.25 The plot 's contrivances are uncomfortably strained .
+NEGATIVE:0.069444 Guilty of the worst sin of attributable to a movie like this : it 's not scary in the slightest .
+NEGATIVE:0.38889 Schnieder bounces around with limp wrists , wearing tight tummy tops and hip huggers , twirling his hair on his finger and assuming that 's enough to sustain laughs ...
+NEGATIVE:0.23611 Its simplicity puts an exclamation point on the fact that this is n't something to be taken seriously , but it also wrecks any chance of the movie rising above similar fare .
+NEGATIVE:0.36111 By the final whistle you 're convinced that this Mean Machine was a decent TV outing that just does n't have big screen magic .
+NEGATIVE:0.083333 To say that this vapid vehicle is downright doltish and uneventful is just as obvious as telling a country skunk that he has severe body odor .
+NEGATIVE:0.15278 A film of empty , fetishistic violence in which murder is casual and fun .
+NEGATIVE:0.33333 Pretend it 's a werewolf itself by avoiding eye contact and walking slowly away .
+POSITIVE:0.625 It 's fun , but it 's a real howler .
+NEGATIVE:0.27778 Some fine acting , but ultimately a movie with no reason for being .
+NEGATIVE:0.22222 It 's difficult to feel anything much while watching this movie , beyond mild disturbance or detached pleasure at the acting .
+NEGATIVE:0.22222 A waterlogged version of ` Fatal Attraction ' for the teeny-bopper set ... a sad , soggy potboiler that wastes the talents of its attractive young leads .
+NEGATIVE:0.30556 Sweet gentle Jesus , did the screenwriters just do a cut-and-paste of every bad action-movie line in history ?
+NEGATIVE:0.20833 This is for the most part a useless movie , even with a great director at the helm .
+NEGATIVE:0.11111 A loud , witless mess that has none of the charm and little of the intrigue from the TV series .
+NEGATIVE:0.18056 Even on its own ludicrous terms , The Sum of All Fears generates little narrative momentum , and invites unflattering comparisons to other installments in the Ryan series .
+NEGATIVE:0.13889 As predictable as the outcome of a Globetrotters-Generals game , Juwanna Mann is even more ludicrous than you 'd expect from the guy-in-a-dress genre , and a personal low for everyone involved .
+NEGATIVE:0.22222 Where Tom Green stages his gags as assaults on America 's knee-jerk moral sanctimony , Jackass lacks aspirations of social upheaval .
+NEGATIVE:0.38889 The April 2002 instalment of the American War for Independence , complete with loads of CGI and bushels of violence , but not a drop of human blood .
+NEGATIVE:0.31944 Contains all the substance of a Twinkie -- easy to swallow , but scarcely nourishing .
+NEGATIVE:0.375 Return to Neverland manages to straddle the line between another classic for the company and just another run-of-the-mill Disney sequel intended for the home video market .
+NEGATIVE:0.19444 Rarely does a film so graceless and devoid of merit as this one come along .
+NEGATIVE:0.30556 It 's a thin notion , repetitively stretched out to feature length , awash in self-consciously flashy camera effects , droning house music and flat , flat dialogue .
+NEGATIVE:0.36111 The colorful Masseur wastes its time on mood rather than riding with the inherent absurdity of Ganesh 's rise up the social ladder .
+NEGATIVE:0.11111 ... an incredibly heavy-handed , manipulative dud that feels all too familiar .
+NEGATIVE:0.31944 Wimps out by going for that PG-13 rating , so the more graphic violence is mostly off-screen and the sexuality is muted .
+POSITIVE:0.61111 Trapped presents a frightening and compelling ` What if ? '
+NEGATIVE:0.18056 Madonna has made herself over so often now , there 's apparently nothing left to work with , sort of like Michael Jackson 's nose .
+NEGATIVE:0.18056 Never having seen the first two films in the series , I ca n't compare Friday After Next to them , but nothing would change the fact that what we have here is a load of clams left in the broiling sun for a good three days .
+NEGATIVE:0.15278 The story is lacking any real emotional impact , and the plot is both contrived and cliched .
+NEGATIVE:0.11111 A depraved , incoherent , instantly disposable piece of hackery .
+NEGATIVE:0.13889 It 's a bad action movie because there 's no rooting interest and the spectacle is grotesque and boring .
+NEGATIVE:0.375 -LRB- Soderbergh -RRB- tends to place most of the psychological and philosophical material in italics rather than trust an audience 's intelligence , and he creates an overall sense of brusqueness .
+NEGATIVE:0.26389 So aggressively cheery that Pollyana would reach for a barf bag .
+NEGATIVE:0.27778 Scooby-Doo does n't know if it wants to be a retro-refitting exercise in campy recall for older fans or a silly , Nickelodeon-esque kiddie flick .
+NEGATIVE:0.26389 Russell lacks the visual panache , the comic touch , and perhaps the budget of Sommers 's title-bout features .
+NEGATIVE:0.069444 Highly uneven and inconsistent ... Margarita Happy Hour kinda resembles the el cheapo margaritas served within .

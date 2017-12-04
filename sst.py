@@ -1,4 +1,4 @@
-def massage_sst_1(corpus_filepath, phrases_filepath, sentiments_filepath, set_mappings_filepath):
+def make_sst(corpus_filepath, phrases_filepath, sentiments_filepath, set_mappings_filepath, sst_version=1):
 	# corpus_filepath: datasetSentences.txt
 	# phrases_filepath: dictionary.txt
 	# sentiments_filepath: sentiment_labels.txt
@@ -25,7 +25,9 @@ def massage_sst_1(corpus_filepath, phrases_filepath, sentiments_filepath, set_ma
     for sentence in corpus:
         phrase_id = phrases[sentence]
         sentiment = float(sentiments[phrase_id])
-        label = get_label(sentiment)
+        if sst_version == 2 and 0.4 <= sentiment and sentiment <= 0.6:
+            continue
+        label = get_label(sentiment, sst_version)
         destination_set = int(set_mappings[sentence_id])
         dataset_sentence = "%s:%s %s" % (label, sentiment, sentence)
         if destination_set == 1:
@@ -47,17 +49,23 @@ def write_datasets(train, dev, test, train_filepath, test_filepath, dev_filepath
     file_from_array(test_filepath, test)
     file_from_array(dev_filepath, dev)
 
-def get_label(sentiment):
-    if 0 <= sentiment and sentiment <= 0.2:
-        return "VERY_NEGATIVE"
-    if 0.2 < sentiment and sentiment <= 0.4:
-        return "NEGATIVE"
-    if 0.4 <= sentiment and sentiment <= 0.6:
-        return "NEUTRAL"
-    if 0.6 < sentiment and sentiment <= 0.8:
-        return "POSITIVE"
-    if 0.8 <= sentiment and sentiment <= 1:
-        return "VERY_POSITIVE"
+def get_label(sentiment, sst_version):
+    if sst_version == 1:
+        if 0 <= sentiment and sentiment <= 0.2:
+            return "VERY_NEGATIVE"
+        if 0.2 < sentiment and sentiment <= 0.4:
+            return "NEGATIVE"
+        if 0.4 <= sentiment and sentiment <= 0.6:
+            return "NEUTRAL"
+        if 0.6 < sentiment and sentiment <= 0.8:
+            return "POSITIVE"
+        if 0.8 <= sentiment and sentiment <= 1:
+            return "VERY_POSITIVE"
+    else:
+        if sentiment <= 0.4:
+            return "NEGATIVE"
+        if 0.6 < sentiment:
+            return "POSITIVE"
 
 def file_to_dict(filepath, delimiter, skip_first_line=True):
     d = {}
@@ -86,5 +94,8 @@ def file_from_array(filepath, a):
         for line in a:
             f.write("%s\n" % (line))
 
-train, test, dev = massage_sst_1("stanfordSentimentTreebank/datasetSentences.txt", "stanfordSentimentTreebank/dictionary.txt", "stanfordSentimentTreebank/sentiment_labels.txt", "stanfordSentimentTreebank/datasetSplit.txt")
+train, test, dev = make_sst("stanfordSentimentTreebank/datasetSentences.txt", "stanfordSentimentTreebank/dictionary.txt", "stanfordSentimentTreebank/sentiment_labels.txt", "stanfordSentimentTreebank/datasetSplit.txt", sst_version=1)
 write_datasets(train, test, dev, "sst_1_train.txt", "sst_1_test.txt", "sst_1_dev.txt")
+
+train2, test2, dev2 = make_sst("stanfordSentimentTreebank/datasetSentences.txt", "stanfordSentimentTreebank/dictionary.txt", "stanfordSentimentTreebank/sentiment_labels.txt", "stanfordSentimentTreebank/datasetSplit.txt", sst_version=2)
+write_datasets(train2, test2, dev2, "sst_2_train.txt", "sst_2_test.txt", "sst_2_dev.txt")
