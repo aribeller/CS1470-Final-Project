@@ -39,7 +39,7 @@ chnl_num = 1
 num_flts = 100
 num_class = 6
 drop_prob = .5
-num_iter = 10900
+num_iter = 100000000
 num_batches = tr_snum/batch_sz
 
 if to_make == "MAKE":
@@ -68,7 +68,7 @@ conv_bias3 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 conv_bias4 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 conv_bias5 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 
-W = tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[3*num_flts,num_class],stddev=.1)), p)
+W = tf.clip_by_norm(tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[3*num_flts,num_class],stddev=.1)), p), 3)
 b = tf.Variable(tf.truncated_normal(shape=[num_class],stddev=.1))
 
 
