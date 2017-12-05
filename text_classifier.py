@@ -57,8 +57,16 @@ ans = tf.placeholder(tf.int32, [batch_sz])
 # num_features = tf.placeholder(tf.int32)
 p = tf.placeholder(tf.float32)
 
-# E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
-E = tf.constant(embed, dtype=tf.float32)
+if method == "MULTI":
+	print("NOT CONFIGURED FOR MULTI")
+	print("REVERTING TO NONSTATIC")
+	E = tf.constant(embed, dtype=tf.float32)
+elif method == "STATIC":
+	E = tf.constant(embed, dtype=tf.float32)
+elif method == "NONSTATIC":
+	E = tf.Variable(embed, dtype=tf.float32)
+else: # method == "RAND"
+	E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
 
 flts3 = tf.Variable(tf.truncated_normal(shape=[3, embed_sz, chnl_num, num_flts], stddev=.1))
 flts4 = tf.Variable(tf.truncated_normal(shape=[4, embed_sz, chnl_num, num_flts], stddev=.1))
