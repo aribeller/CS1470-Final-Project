@@ -1,0 +1,1 @@
+python2 text_classifier.py sst_2_train.txt sst_2_test.txt SST_2_embeddings.txt USE NONSTATIC
