@@ -20,3 +20,6 @@ Load model: `pretrained = gs.models.KeyedVectors.load_word2vec_format(PRETRAINED
 It takes roughly a minute to load the entire file (for me).
 
 Get embedding for word: `pretrained['dog']`.
+
+# Running the code
+`python2 text-classifier <training-data> <testing-data> <embeddings-file> <MAKE/USE> <RAND/STATIC/NONSTATIC/MULTI>`
