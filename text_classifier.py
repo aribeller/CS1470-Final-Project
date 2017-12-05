@@ -34,14 +34,14 @@ te_snum = te_c.shape[0]
 
 batch_sz = 50
 vocab_sz = len(vocab)
-print 'VOCAB SIZE:', vocab_sz
 embed_sz = 300
 chnl_num = 1
 num_flts = 100
-num_class = 6
+num_class = len(lt)
 drop_prob = .5
 num_iter = 100000000
 num_batches = tr_snum/batch_sz
+patience = 8
 
 if to_make == "MAKE":
 	print("create embed from w2v")
@@ -147,7 +147,7 @@ for i in range(num_iter):
 		prev_acc = acc
 		acc = correct/te_snum
 
-	if dev_prev < dev_loss and i/num_batches > 10:
+	if dev_prev < dev_loss and i/num_batches > patience:
 		print 'Accuracy:'
 		print prev_acc
 		break
