@@ -12,7 +12,8 @@ w2v_filepath = 'GoogleNews-vectors-negative300.bin.gz'
 training_data_filepath = sys.argv[1]
 testing_data_filepath = sys.argv[2]
 embeddings_filepath = sys.argv[3]
-to_train = sys.argv[4] # either TRAIN or USE
+to_make = sys.argv[4] # either MAKE or USE
+method = sys.argv[5] # either RAND, STATIC, NONSTATIC or MULTI
 
 print("TRAINING ON: %s" % training_data_filepath)
 print("TESTING ON: %s" % testing_data_filepath)
@@ -41,7 +42,7 @@ drop_prob = .5
 num_iter = 10900
 num_batches = tr_snum/batch_sz
 
-if to_train == "TRAIN":
+if to_make == "MAKE":
 	print("create embed from w2v")
 	embed = w2v_embed(vocab)
 	print("save embed to file")
