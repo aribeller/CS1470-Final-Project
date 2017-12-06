@@ -41,7 +41,7 @@ num_class = len(lt)
 drop_prob = .5
 num_iter = 100000000
 num_batches = tr_snum/batch_sz
-patience = 8
+patience = 10
 
 if to_make == "MAKE":
 	print("create embed from w2v")
