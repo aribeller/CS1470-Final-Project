@@ -37,10 +37,11 @@ vocab_sz = len(vocab)
 embed_sz = 300
 chnl_num = 1
 num_flts = 100
-num_class = 6
+num_class = len(lt)
 drop_prob = .5
 num_iter = 100000000
 num_batches = tr_snum/batch_sz
+patience = 8
 
 if to_make == "MAKE":
 	print("create embed from w2v")
@@ -58,9 +59,10 @@ ans = tf.placeholder(tf.int32, [batch_sz])
 p = tf.placeholder(tf.float32)
 
 if method == "MULTI":
-	print("NOT CONFIGURED FOR MULTI")
-	print("REVERTING TO NONSTATIC")
-	E = tf.constant(embed, dtype=tf.float32)
+	E1 = tf.reshape(tf.constant(embed, dtype=tf.float32), (vocab_sz,embed_sz,1))
+	E2 = tf.reshape(tf.Variable(embed,dtype=tf.float32), (vocab_sz,embed_sz,1))
+	E = tf.concat([E1,E2],axis=2)
+	chnl_num = 2
 elif method == "STATIC":
 	E = tf.constant(embed, dtype=tf.float32)
 elif method == "NONSTATIC":
@@ -81,7 +83,7 @@ b = tf.Variable(tf.truncated_normal(shape=[num_class],stddev=.1))
 
 
 embed = tf.nn.embedding_lookup(E, sent)
-r_embed = tf.reshape(embed, shape=[batch_sz, sent_len, embed_sz, 1])
+r_embed = tf.reshape(embed, shape=[batch_sz, sent_len, embed_sz, chnl_num])
 
 conv3_out = tf.squeeze(tf.nn.relu(tf.nn.conv2d(r_embed, flts3, [1,1,1,1], 'VALID') + conv_bias3))
 conv4_out = tf.squeeze(tf.nn.relu(tf.nn.conv2d(r_embed, flts4, [1,1,1,1], 'VALID') + conv_bias4))
@@ -145,7 +147,7 @@ for i in range(num_iter):
 		prev_acc = acc
 		acc = correct/te_snum
 
-	if dev_prev < dev_loss and i/num_batches > 10:
+	if dev_prev < dev_loss and i/num_batches > patience:
 		print 'Accuracy:'
 		print prev_acc
 		break
