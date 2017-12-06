@@ -26,8 +26,8 @@ num_trsent = len(pairs_tr)
 with open(testing_data_filepath) as f:
 	pairs_te = [line.split(':', 1) for line in f.readlines()]
 
-tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0, is_training=True)
-te_c, te_l, vocab, lt,  sent_len = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
+tr_c, tr_l, vocab, lt, sent_len, sent_lens = process_corp(pairs_tr, {}, {}, 0, 0, is_training=True)
+te_c, te_l, vocab, lt, sent_len, sent_lens = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
 
 tr_snum = tr_c.shape[0]
 te_snum = te_c.shape[0]

@@ -16,6 +16,7 @@ def process_corp(pairs, vocabulary, lt, max_key, previous_max_sentence_length, i
 	vindex = max_key
 	indexed_corpus = []
 	orig_corpus = []
+	orig_sentence_lengths = []
 
 	word_occurrences = {}
 	word_count = 0 # just for stats
@@ -59,6 +60,11 @@ def process_corp(pairs, vocabulary, lt, max_key, previous_max_sentence_length, i
 				if word not in vocab:
 					sentence[i] = get_unk_symbol()
 
+	for sentence in orig_corpus:
+		print(sentence)
+		print(len(sentence))
+		orig_sentence_lengths.append(len(sentence))
+
 	# pad sentences, don't override the original sentence lengths, i think we need them later
 	print(sorted([len(s) for s in orig_corpus])[-1])
 	max_sentence_length = max(sorted([len(s) for s in orig_corpus])[-1], previous_max_sentence_length)
@@ -82,7 +88,7 @@ def process_corp(pairs, vocabulary, lt, max_key, previous_max_sentence_length, i
 	# print(indexed_labels[:5])
 	# print(indexed_corpus[:5])
 
-	return indexed_corpus, indexed_labels, vocab, label_types, max_sentence_length
+	return indexed_corpus, indexed_labels, vocab, label_types, max_sentence_length, orig_sentence_lengths
 
 def w2v_embed(vocab):
 	w2v_filepath = 'GoogleNews-vectors-negative300.bin.gz'
