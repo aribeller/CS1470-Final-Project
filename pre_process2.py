@@ -61,8 +61,6 @@ def process_corp(pairs, vocabulary, lt, max_key, previous_max_sentence_length, i
 					sentence[i] = get_unk_symbol()
 
 	for sentence in orig_corpus:
-		print(sentence)
-		print(len(sentence))
 		orig_sentence_lengths.append(len(sentence))
 
 	# pad sentences, don't override the original sentence lengths, i think we need them later
