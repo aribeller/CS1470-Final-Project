@@ -1,22 +1,17 @@
-# cnn for sentence classification
-by Ari Beller and Nicholas Lum
+# CNN for Sentence Classification
+By Ari Beller and Nicholas Lum
 
-## Using gooogle news pretrained
+# Running the code
+The following dependencies are required to run the code:
+* Python 2.7
+* Tensorflow
+* `GoogleNews-vectors-negative300.bin.gz`, found at https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 
-### The model itself
-Download it at https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
-
-Place it in a the folder that contains the project folder,
-i.e. its relative filepath to the project folder should be `../GoogleNews-vectors-negative300.bin`
-
-### Loading in python
-Download gensim: https://github.com/RaRe-Technologies/gensim -
-`pip install gemsim` or `sudo -H pip install gensim` if the previous did not work
-
-Example at: https://gist.github.com/bhaettasch/d7f4e22e79df3c8b6c20 or see notes folder
-
-Load model: `pretrained = gs.models.KeyedVectors.load_word2vec_format(PRETRAINED_filepath, binary=True)`
-
-It takes roughly a minute to load the entire file (for me).
-
-Get embedding for word: `pretrained['dog']`.
+The network can be run with the following command and parameters:
+`python2 text-classifier <param 1> <param 2> <param 3> <param 4> <param 5>`
+Where the parameters are as follows:
+* <params 1>: The training data filepath
+* <params 2>: The testing data filepath
+* <params 3>: The embeddings filepath
+* <params 4>: The training data filepath
+* <params 5>: The training data filepath
