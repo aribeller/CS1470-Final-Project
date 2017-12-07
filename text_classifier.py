@@ -26,8 +26,8 @@ num_trsent = len(pairs_tr)
 with open(testing_data_filepath) as f:
 	pairs_te = [line.split(':', 1) for line in f.readlines()]
 
-tr_c, tr_l, vocab, lt, sent_len = process_corp(pairs_tr, {}, {}, 0, 0, is_training=True)
-te_c, te_l, vocab, lt,  sent_len = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
+tr_c, tr_l, vocab, lt, sent_len, sent_lens = process_corp(pairs_tr, {}, {}, 0, 0, is_training=True)
+te_c, te_l, vocab, lt, sent_len, sent_lens = process_corp(pairs_te, vocab, lt, sorted(vocab.values())[-1], sent_len)
 
 tr_snum = tr_c.shape[0]
 te_snum = te_c.shape[0]
@@ -37,10 +37,12 @@ vocab_sz = len(vocab)
 embed_sz = 300
 chnl_num = 1
 num_flts = 100
-num_class = 6
+num_class = len(lt)
 drop_prob = .5
-num_iter = 10900
+num_iter = 100000000
 num_batches = tr_snum/batch_sz
+patience = 10
+hidden_sz = 500
 
 if to_make == "MAKE":
 	print("create embed from w2v")
@@ -57,8 +59,17 @@ ans = tf.placeholder(tf.int32, [batch_sz])
 # num_features = tf.placeholder(tf.int32)
 p = tf.placeholder(tf.float32)
 
-# E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
-E = tf.constant(embed, dtype=tf.float32)
+if method == "MULTI":
+	E1 = tf.reshape(tf.constant(embed, dtype=tf.float32), (vocab_sz,embed_sz,1))
+	E2 = tf.reshape(tf.Variable(embed,dtype=tf.float32), (vocab_sz,embed_sz,1))
+	E = tf.concat([E1,E2],axis=2)
+	chnl_num = 2
+elif method == "STATIC":
+	E = tf.constant(embed, dtype=tf.float32)
+elif method == "NONSTATIC":
+	E = tf.Variable(embed, dtype=tf.float32)
+else: # method == "RAND"
+	E = tf.Variable(tf.truncated_normal(shape=[vocab_sz, embed_sz], stddev=.1))
 
 flts3 = tf.Variable(tf.truncated_normal(shape=[3, embed_sz, chnl_num, num_flts], stddev=.1))
 flts4 = tf.Variable(tf.truncated_normal(shape=[4, embed_sz, chnl_num, num_flts], stddev=.1))
@@ -68,12 +79,14 @@ conv_bias3 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 conv_bias4 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 conv_bias5 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 
-W = tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[3*num_flts,num_class],stddev=.1)), p)
+W0 = tf.clip_by_norm(tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[3*num_flts,hidden_sz],stddev=.1)),p), 3)
+b0 = tf.Variable(tf.truncated_normal(shape=[hidden_sz],stddev=.1))
+W = tf.clip_by_norm(tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[hidden_sz,num_class],stddev=.1)), p), 3)
 b = tf.Variable(tf.truncated_normal(shape=[num_class],stddev=.1))
 
 
 embed = tf.nn.embedding_lookup(E, sent)
-r_embed = tf.reshape(embed, shape=[batch_sz, sent_len, embed_sz, 1])
+r_embed = tf.reshape(embed, shape=[batch_sz, sent_len, embed_sz, chnl_num])
 
 conv3_out = tf.squeeze(tf.nn.relu(tf.nn.conv2d(r_embed, flts3, [1,1,1,1], 'VALID') + conv_bias3))
 conv4_out = tf.squeeze(tf.nn.relu(tf.nn.conv2d(r_embed, flts4, [1,1,1,1], 'VALID') + conv_bias4))
@@ -86,7 +99,8 @@ max3 = tf.reduce_max(conv5_out, axis=1)
 # conv_out = tf.concat([conv3_out, conv4_out, conv5_out], 2)
 max_act = tf.concat([max1,max2,max3], axis=1)
 
-logits = tf.matmul(max_act, W) + b
+hidden = tf.nn.relu(tf.matmul(max_act, W0) + b0)
+logits = tf.matmul(hidden, W) + b
 
 loss = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(labels=ans, logits=logits))
 
@@ -137,7 +151,7 @@ for i in range(num_iter):
 		prev_acc = acc
 		acc = correct/te_snum
 
-	if dev_prev < dev_loss and i/num_batches > 10:
+	if dev_prev < dev_loss and i/num_batches > patience:
 		print 'Accuracy:'
 		print prev_acc
 		break

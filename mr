@@ -1,1 +1,0 @@
-python2 text_classifier.py MR_train.txt MR_test.txt MR_embeddings.txt MAKE STATIC

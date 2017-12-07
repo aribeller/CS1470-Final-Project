@@ -1,0 +1,1 @@
+python2 text_classifier.py SUBJ_train.txt SUBJ_test.txt SUBJ_embeddings.txt USE RAND

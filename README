@@ -8,10 +8,12 @@ The following dependencies are required to run the code:
 * `GoogleNews-vectors-negative300.bin.gz`, found at https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 
 The network can be run with the following command and parameters:
+
 `python2 text-classifier <param 1> <param 2> <param 3> <param 4> <param 5>`
+
 Where the parameters are as follows:
 * <params 1>: The training data filepath
 * <params 2>: The testing data filepath
 * <params 3>: The embeddings filepath
-* <params 4>: The training data filepath
+* <params 4>: The word `MAKE` or `USE. `MAKE` to create the embeddings from the pretrained vectors and save it to the given embeddings filepath; `USE` to use the vectors previously saved in the given embedding file.
 * <params 5>: The training data filepath
