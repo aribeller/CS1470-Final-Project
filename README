@@ -1,25 +1,41 @@
-# cnn for sentence classification
-by Ari Beller and Nicholas Lum
+# CNN for Sentence Classification
+By Ari Beller and Nicholas Lum
 
-## Using gooogle news pretrained
+# Overview
+We follow Yoon Kim's (2014) paper on using CNNs for sentence classification. The datasets consist of sentences, each with a topic or class label. Example classes include positive or negative sentiment and whether a sentence is subjective or objective. The CNN will attempt to output the correct class. We learn three filters and two fully connected layers.
 
-### The model itself
-Download it at https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+We take sentences and pass them into the CNN with each word represented as their word embeddings. The embeddings are generally initialised with the Google Word2Vec pretrained embedding data. There are a few strategies for training that Kim describes:
+* RAND: Where the word embeddings are _not_ initialised with the pretrained values; rather they are randomly initialised
+* STATIC: Where the word embeddings are initialised from the pretrained values, and they are kept constant throughout the training process
+* NONSTATIC: Where the word embeddings, initialised from pretrained values, are further fine-tuned during the training process
+* MULTI: Simulating the multichannel processing of image data, there is one channel of STATIC and one channel of NONSTATIC that is passed into the CNN
 
-Place it in a the folder that contains the project folder,
-i.e. its relative filepath to the project folder should be `../GoogleNews-vectors-negative300.bin`
-
-### Loading in python
-Download gensim: https://github.com/RaRe-Technologies/gensim -
-`pip install gemsim` or `sudo -H pip install gensim` if the previous did not work
-
-Example at: https://gist.github.com/bhaettasch/d7f4e22e79df3c8b6c20 or see notes folder
-
-Load model: `pretrained = gs.models.KeyedVectors.load_word2vec_format(PRETRAINED_filepath, binary=True)`
-
-It takes roughly a minute to load the entire file (for me).
-
-Get embedding for word: `pretrained['dog']`.
+Loading the pretrained vectors into memory is very time consuming since the file is so large. To decrease development time, we save the embeddings of each dataset after it has been created. In future trainings on the same dataset, we can simply use the saved embeddings rather than having to recreate them from the pretrained vectors. This is controlled by a parameter of the main command (explained later).
 
 # Running the code
-`python2 text-classifier <training-data> <testing-data> <embeddings-file> <MAKE/USE> <RAND/STATIC/NONSTATIC/MULTI>`
+The following dependencies are required to run the code:
+* Python 2.7
+* Tensorflow
+* The file `GoogleNews-vectors-negative300.bin.gz`, found at https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
+
+The network can be run with the following command and parameters:
+
+`python2 text-classifier <param 1> <param 2> <param 3> <param 4> <param 5>`
+
+Where the parameters are as follows:
+* <params 1>: The training data filepath
+* <params 2>: The testing data filepath
+* <params 3>: The embeddings filepath
+* <params 4>: The word `MAKE` or `USE`. `MAKE` to create the embeddings from the pretrained vectors and save it to the given embeddings filepath; `USE` to use the vectors previously saved in the given embedding file.
+* <params 5>: The word `MULTI`, `STATIC`, `NONSTATIC`, or `RAND`. Each word represents the strategy the network uses during training.
+
+# Files and Data
+The main network code is in `text-classifier.py`. The files `pre_process2.py` and `vocab_saver.py` are helper files that perform preprocessing and misc functions for the network. The remaining python files are helper files that clean up the raw datasets.
+
+Saved word embeddings for each dataset are in the `*_embeddings.txt` files.
+
+The training, dev and testing data are generally in the other `.txt` files, clearly denoted by their names.
+
+Helper shell scripts allow the user to run the code with predetermined parameters. One such file is `cr-static` where the code is run on the CR datasets with USE and STATIC parameters.
+
+The raw datasets are in their respective folders.
