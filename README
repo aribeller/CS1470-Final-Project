@@ -2,7 +2,7 @@
 By Ari Beller and Nicholas Lum
 
 # Overview
-We follow Yoon Kim's (2014) paper on using CNNs for sentence classification. The datasets consist of sentences, each with a topic or class label. Example classes include positive or negative sentiment and whether a sentence is subjective or objective. The CNN will attempt to output the correct class. We learn three filters and two fully connected layers.
+We follow Yoon Kim's (2015) paper on using CNNs for sentence classification. The datasets consist of sentences, each with a topic or class label. Example classes include positive or negative sentiment and whether a sentence is subjective or objective. The CNN will attempt to output the correct class. We learn three filters and two fully connected layers.
 
 We take sentences and pass them into the CNN with each word represented as their word embeddings. The embeddings are generally initialised with the Google Word2Vec pretrained embedding data. There are a few strategies for training that Kim describes:
 * RAND: Where the word embeddings are _not_ initialised with the pretrained values; rather they are randomly initialised
