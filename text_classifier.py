@@ -48,7 +48,7 @@ num_class = len(lt)
 drop_prob = .5
 num_iter = 100000000
 num_batches = tr_snum/batch_sz
-patience = 10
+patience = 5
 hidden_sz = 500
 
 # If necessary, obtain and save word embeddings from word2vec
