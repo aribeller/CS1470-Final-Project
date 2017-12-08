@@ -41,8 +41,8 @@ num_class = len(lt)
 drop_prob = .5
 num_iter = 100000000
 num_batches = tr_snum/batch_sz
-patience = 10
-hidden_sz = 500
+patience = 5
+hidden_sz = 1000
 
 if to_make == "MAKE":
 	print("create embed from w2v")
@@ -79,9 +79,9 @@ conv_bias3 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 conv_bias4 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 conv_bias5 = tf.Variable(tf.truncated_normal(shape=[num_flts],stddev=.1))
 
-W0 = tf.clip_by_norm(tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[3*num_flts,hidden_sz],stddev=.1)),p), 3)
-b0 = tf.Variable(tf.truncated_normal(shape=[hidden_sz],stddev=.1))
-W = tf.clip_by_norm(tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[hidden_sz,num_class],stddev=.1)), p), 3)
+# W0 = tf.clip_by_norm(tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[3*num_flts,hidden_sz],stddev=.1)),p), 3)
+# b0 = tf.Variable(tf.truncated_normal(shape=[hidden_sz],stddev=.1))
+W = tf.clip_by_norm(tf.nn.dropout(tf.Variable(tf.truncated_normal(shape=[3*num_flts,num_class],stddev=.1)), p), 3)
 b = tf.Variable(tf.truncated_normal(shape=[num_class],stddev=.1))
 
 
@@ -99,8 +99,8 @@ max3 = tf.reduce_max(conv5_out, axis=1)
 # conv_out = tf.concat([conv3_out, conv4_out, conv5_out], 2)
 max_act = tf.concat([max1,max2,max3], axis=1)
 
-hidden = tf.nn.relu(tf.matmul(max_act, W0) + b0)
-logits = tf.matmul(hidden, W) + b
+# hidden = tf.nn.relu(tf.matmul(max_act, W0) + b0)
+logits = tf.matmul(max_act, W) + b
 
 loss = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(labels=ans, logits=logits))
 
@@ -188,18 +188,3 @@ print time.time() - start
 
 
 
-# conv3 = tf.layers.conv2d(r_embed, filters=100, kernel_size=[3,embed_sz],
-#  strides=(1,0), padding='valid',use_bias=True,
-#  bias_initializer=tf.truncated_normal(shape=[num_features],stddev=.1))
-
-# conv4 = tf.layers.conv2d(r_embed, filters=100, kernel_size=[4,embed_sz],
-#  strides=(1,0), padding='valid',use_bias=True,
-#  bias_initializer=tf.truncated_normal(shape=[num_features],stddev=.1))
-
-# conv5 = conv5 = tf.layers.conv2d(r_embed, filters=100, kernel_size=[5,embed_sz],
-#  strides=(1,0), padding='valid',use_bias=True,
-#  bias_initializer=tf.truncated_normal(shape=[num_features],stddev=.1))
-
-
-
-# conv_bias = tf.Variable(tf.truncated_normal(shape=[tr_slen]))
